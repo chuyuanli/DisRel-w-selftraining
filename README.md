@@ -1,2 +1,2 @@
 # DisRel-w-selftraining
-This is a repository for discourse relation predicting using self training
+This is a repository for discourse relation prediction using self training
