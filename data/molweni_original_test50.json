@@ -1,0 +1,3894 @@
+[
+  {
+    "edus": [
+      {
+        "text": "apt-get i doubt my apt thing is bad though , i just installed ubuntu today",
+        "speaker": "cr1mson"
+      },
+      {
+        "text": "wait ! i found a much easier way",
+        "speaker": "APT-GET_INSTALL_"
+      },
+      {
+        "text": "well , i want you to read all of that",
+        "speaker": "APT-GET_INSTALL_"
+      },
+      {
+        "text": "before you start mucking around in system files",
+        "speaker": "APT-GET_INSTALL_"
+      },
+      {
+        "text": "there was only a couple lines in it",
+        "speaker": "cr1mson"
+      },
+      {
+        "text": "most of it was rem 'd out",
+        "speaker": "cr1mson"
+      },
+      {
+        "text": "you are going to learn what all of them all from the url i just pasted",
+        "speaker": "APT-GET_INSTALL_"
+      },
+      {
+        "text": "i can always use more than one terminal",
+        "speaker": "cr1mson"
+      },
+      {
+        "text": "okay , so i have to add or change a 'repository '",
+        "speaker": "cr1mson"
+      }
+    ],
+    "id": "1035",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Background"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Elaboration"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Elaboration"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Acknowledgement"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "membreya , it sits at 'starting hotplug subsystem ' and 'starting network interfaces",
+        "speaker": "hayden"
+      },
+      {
+        "text": "it takes a while to load a default kernel and its modules .",
+        "speaker": "andrewski"
+      },
+      {
+        "text": "if you do n't need it , you could disable hotplug .",
+        "speaker": "andrewski"
+      },
+      {
+        "text": "it starts drivers for any devices loaded after you boot up .",
+        "speaker": "andrewski"
+      },
+      {
+        "text": "( e.g . usb sticks , external drives )",
+        "speaker": "andrewski"
+      },
+      {
+        "text": "so what if you want to use a usb stick after u reboot ?",
+        "speaker": "hayden"
+      },
+      {
+        "text": "um , hotplug takes care of that . otherwise iirc you have to load the driver manually .",
+        "speaker": "andrewski"
+      }
+    ],
+    "id": "7036",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Elaboration"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Conditional"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Elaboration"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "rambo3 : i see no icons in my desktop , i want them back",
+        "speaker": "Davy_Jones"
+      },
+      {
+        "text": "`` gconftool -s -t bool FILEPATH 1 ''",
+        "speaker": "Jowi"
+      },
+      {
+        "text": "i issued the command , i 'll restart x and see",
+        "speaker": "Davy_Jones"
+      },
+      {
+        "text": "the change should be seen without restart",
+        "speaker": "Jowi"
+      },
+      {
+        "text": "i 'll try changing it manually from gconf-editor",
+        "speaker": "Davy_Jones"
+      },
+      {
+        "text": "`` gconftool -g FILEPATH give you `` true '' or `` false '' ?",
+        "speaker": "Jowi"
+      },
+      {
+        "text": "so in gconf-editor it is set . same thing doing it as we did now or manually .",
+        "speaker": "Jowi"
+      },
+      {
+        "text": "that 's right , i 'll restart anyway.. it worked for some problems : x",
+        "speaker": "Davy_Jones"
+      },
+      {
+        "text": "as long as nautilus is running you should get icons .",
+        "speaker": "Jowi"
+      },
+      {
+        "text": "i got the icons back after restarting x",
+        "speaker": "Davy_Jones"
+      }
+    ],
+    "id": "3014",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Correction"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "what do i do to get rid of that error ?",
+        "speaker": "jared_"
+      },
+      {
+        "text": "there is another package manager running somewhere",
+        "speaker": "clearzen"
+      },
+      {
+        "text": "have you closed all instances of synaptic ?",
+        "speaker": "Moniker42"
+      },
+      {
+        "text": "really ? the entire device enumereation would be different . what 's the trick ?",
+        "speaker": "OTIS"
+      },
+      {
+        "text": "i did it a few times , and no problem . just config x and go",
+        "speaker": "natham"
+      },
+      {
+        "text": "so boot to text console , type some x incantions , that 's it ?",
+        "speaker": "OTIS"
+      },
+      {
+        "text": "well i did it some time ago , but basically yes ( if you dont have custom kernel )",
+        "speaker": "natham"
+      }
+    ],
+    "id": "8031",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "mgolisch - no i just formatted it mgolisch - how do i add partitions ?",
+        "speaker": "Jeremy93283"
+      },
+      {
+        "text": "usualy you dont have to do that",
+        "speaker": "mgolisch"
+      },
+      {
+        "text": "find a windows machine or some other piece of hardware , see if they recognize it at all",
+        "speaker": "ConstantineXVI"
+      },
+      {
+        "text": "probably , if it detects any other usb drive",
+        "speaker": "ConstantineXVI"
+      },
+      {
+        "text": "i have a mac and it detects the card",
+        "speaker": "Jeremy93283"
+      },
+      {
+        "text": "okay , card seems fine . have you checked any other cards in that camera ?",
+        "speaker": "ConstantineXVI"
+      },
+      {
+        "text": "but the exact same card worked before ?",
+        "speaker": "mgolisch"
+      }
+    ],
+    "id": "2033",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "removing local diversion of FILEPATH to FILEPATH dpkg-divert : rename involves overwriting FILEPATH with different file FILEPATH not allowed",
+        "speaker": "cucumber3333"
+      },
+      {
+        "text": "please dont paste in here",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "sry , i did n't know it did that",
+        "speaker": "cucumber3333"
+      },
+      {
+        "text": "type firefox in a terminal and 1.0.7 will run",
+        "speaker": "mwe"
+      },
+      {
+        "text": "so i just use the same site to get 1.5 back",
+        "speaker": "cucumber3333"
+      },
+      {
+        "text": "why would you install it again then",
+        "speaker": "mwe"
+      },
+      {
+        "text": "recently , it did b4 , but sometimes it did blank out",
+        "speaker": "cucumber3333"
+      },
+      {
+        "text": "id reinstall it FILEPATH my friend did it and mabey if i tried it it might be better",
+        "speaker": "cucumber3333"
+      },
+      {
+        "text": "is there anything i can do to fix my problem ?",
+        "speaker": "miki"
+      },
+      {
+        "text": "did you manage to load all the required modules ?",
+        "speaker": "mwe"
+      },
+      {
+        "text": "yes , they were all loaded by default as .ko ones or updated with other names",
+        "speaker": "miki"
+      },
+      {
+        "text": "i do n't know then . sorry",
+        "speaker": "mwe"
+      }
+    ],
+    "id": "1011",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Result"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 8,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 11,
+        "x": 10,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "4 is what im in now",
+        "speaker": "liam__"
+      },
+      {
+        "text": "you should try removing the s13gdm link inside the rcx.d dir",
+        "speaker": "gepatino"
+      },
+      {
+        "text": "how should i go about doing that",
+        "speaker": "liam__"
+      },
+      {
+        "text": "if your running on runlevel n , just do 'sudo rm FILEPATH changing n for your runlevel number",
+        "speaker": "gepatino"
+      },
+      {
+        "text": "or if you are using breezy , use the services manager",
+        "speaker": "gepatino"
+      },
+      {
+        "text": "you can disable many services from services manager , the one you should set off is gdm",
+        "speaker": "gepatino"
+      },
+      {
+        "text": "ok , so next time you reboot , you should n't get any x",
+        "speaker": "gepatino"
+      }
+    ],
+    "id": "1019",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 2,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "yeah now i need to use something like awk to feed it in to vim",
+        "speaker": "vbabiy"
+      },
+      {
+        "text": "grep asdf .FILEPATH -l test.3 cat test.3 xargs vim",
+        "speaker": "kthef"
+      },
+      {
+        "text": "you may have to tweak it a little",
+        "speaker": "kthef"
+      },
+      {
+        "text": "make sure you have the right version of the router before you attemptmine is an old version 2",
+        "speaker": "kthef"
+      },
+      {
+        "text": "not you , sorry , should be for killerorca",
+        "speaker": "kthef"
+      },
+      {
+        "text": "have it running , just ca n't ssh to box using it as wireless adaptor",
+        "speaker": "KillerOrca"
+      },
+      {
+        "text": "you set it up as a wireless bridge ?",
+        "speaker": "kthef"
+      }
+    ],
+    "id": "4008",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Narration"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "but if you do df -h can u see where its mounted ?",
+        "speaker": "starscalling"
+      },
+      {
+        "text": "ls FILEPATH will tell you the user installed",
+        "speaker": "Toma-"
+      },
+      {
+        "text": "i cant figure how to get into it to see whats up",
+        "speaker": "starscalling"
+      },
+      {
+        "text": "its not even detecting itas a drive",
+        "speaker": "Plazma"
+      },
+      {
+        "text": "do you have any other firewire devices ?",
+        "speaker": "starscalling"
+      },
+      {
+        "text": "perhaps the problem lies in the firewier thing",
+        "speaker": "starscalling"
+      },
+      {
+        "text": "well the card itslef works in winblows and so doest he ipod so",
+        "speaker": "Plazma"
+      }
+    ],
+    "id": "9006",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Narration"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Result"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "ricklpt : how can i do that ?",
+        "speaker": "noob-tux"
+      },
+      {
+        "text": "i strongly advise you not to try that , it will make your system unsupportable",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "i have upgraded from the nvidia official page .",
+        "speaker": "ZGHirc"
+      },
+      {
+        "text": "then we ca n't support your system",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "i know for nvidia driver just need to ask nvida for help.but the upgrade is hard for me .",
+        "speaker": "ZGHirc"
+      },
+      {
+        "text": "is there a reason you are using the driver from nvidia.com vs. the one in additional drivers ?",
+        "speaker": "histo"
+      },
+      {
+        "text": "why did you install the drivers from nvidia.com ?",
+        "speaker": "ikonia"
+      }
+    ],
+    "id": "6043",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Continuation"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Continuation"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "you need a console for that",
+        "speaker": "webmind"
+      },
+      {
+        "text": "it 's a driver problem there are 3 drivers out there .",
+        "speaker": "Malsid"
+      },
+      {
+        "text": "any that will work fully ?",
+        "speaker": "webmind"
+      },
+      {
+        "text": "depends on your graphics card , do n't know any more than that i 'm afraid .",
+        "speaker": "Malsid"
+      },
+      {
+        "text": "you know which drivers there are ?",
+        "speaker": "webmind"
+      },
+      {
+        "text": "indeed , you 've probably got the 'ati ' driver right now .",
+        "speaker": "Malsid"
+      },
+      {
+        "text": "try the radeon and keep me posted , if you could : )",
+        "speaker": "Malsid"
+      }
+    ],
+    "id": "6029",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "jpg is not a compressed file per se mih1406 , you would probably save a good amount of space",
+        "speaker": "julie"
+      },
+      {
+        "text": "i am actually waiting the process to finish ! EMOJI",
+        "speaker": "MIH1406"
+      },
+      {
+        "text": "fyi jpg is a more compressed image file format than bmp , but is still compressible",
+        "speaker": "julie"
+      },
+      {
+        "text": "it is compressible but it is time consuming with large files EMOJI",
+        "speaker": "MIH1406"
+      },
+      {
+        "text": "well he can use file-roller for the tar file but store-only zip is probably doable from the command line",
+        "speaker": "jrib"
+      },
+      {
+        "text": "here is the full error . configuring grub-pc unable to install grub in FILEPATH executing grub-install FILEPATH failded .",
+        "speaker": "grmrgecko"
+      },
+      {
+        "text": "and what does lilo give you ?",
+        "speaker": "julie"
+      }
+    ],
+    "id": "6011",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Correction"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Continuation"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Contrast"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Contrast"
+      },
+      {
+        "y": 5,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "where can i configure policikit to allow this user to get privileges ?",
+        "speaker": "EagleScreen"
+      },
+      {
+        "text": "if the user is in the admin group - that is all you need to do",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "policikit ask for root password , not for the user password",
+        "speaker": "EagleScreen"
+      },
+      {
+        "text": "what have you done to change that",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "just create the new administrator user",
+        "speaker": "EagleScreen"
+      },
+      {
+        "text": "you must have done more than that",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "do you want me to create another new user and see what happens ?",
+        "speaker": "EagleScreen"
+      },
+      {
+        "text": "what is the name of the user you created ?",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "please show me the output of the command `` id rafael ''",
+        "speaker": "ikonia"
+      },
+      {
+        "text": "so the user is correctly in the group , are you logged in as that user now ?",
+        "speaker": "ikonia"
+      }
+    ],
+    "id": "3025",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 9,
+        "x": 6,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "can i keep breezy back ports with dapper ?",
+        "speaker": "sorush20"
+      },
+      {
+        "text": "breezy-backports are for packages backported from dapper - so you would n't need it",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "`` unknown mime-type for `` FILEPATH -- using application ''",
+        "speaker": "Gnagert"
+      },
+      {
+        "text": "what command did you run ?",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "just like you wrote",
+        "speaker": "Gnagert"
+      },
+      {
+        "text": "and edit it to look like the sources.list i pasted at the url i told you earlier",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "( assuming you 're on breezy and want to enable all the official repositories )",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "it 's version 5.10 of ubuntu",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "i do n't know which release i got",
+        "speaker": "Gnagert"
+      }
+    ],
+    "id": "9019",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "does anybody know if there is some sort of bug in the ubuntu sound support with recording ?",
+        "speaker": "helter"
+      },
+      {
+        "text": "not sure you can search bugs in launchpad.net",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "what does the `` -phigh.. '' command mean when doing reconfigure",
+        "speaker": "pudland"
+      },
+      {
+        "text": "i did reconfigure the x and set up my graphic card to vesa",
+        "speaker": "LinuxIdiot"
+      },
+      {
+        "text": "what graphics card are you using ?",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "i think it resets to default",
+        "speaker": "pudland"
+      },
+      {
+        "text": "did you install the intel drivers for it ?",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "i dont use it couldnt tell you",
+        "speaker": "gnomefreak"
+      }
+    ],
+    "id": "9032",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "replace block with your dev node",
+        "speaker": "MohammadAG"
+      },
+      {
+        "text": "here is the output when i ran the comman",
+        "speaker": "blue_pearl"
+      },
+      {
+        "text": "URL here is the output",
+        "speaker": "blue_pearl"
+      },
+      {
+        "text": "i 'm assuming it 's not raid ?",
+        "speaker": "MohammadAG"
+      },
+      {
+        "text": "well first it did not mounted after i did not properly shutdown xp and booted in ubuntu",
+        "speaker": "blue_pearl"
+      },
+      {
+        "text": "i can try but how to run it ?",
+        "speaker": "blue_pearl"
+      },
+      {
+        "text": "i 'm not sure about xp , but vista and 7 had a recovery disc option",
+        "speaker": "MohammadAG"
+      },
+      {
+        "text": "ok. will reinstalling the grub2 help in any way ?",
+        "speaker": "blue_pearl"
+      }
+    ],
+    "id": "2005",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Narration"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Continuation"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "to me it looks like its trying to read the cdrom for universe",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "ok synaptic is open ! and i opened the repositories",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "what is the first thing you see",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "is there a check near it ?",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "since when are you getting these errors ?",
+        "speaker": "theine"
+      },
+      {
+        "text": "a check ? as in tick ?",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "after 5months using ubuntu my first day ever getting these errors",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "there is no tick on any of the 12 that appear",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "i dont see any boxes !",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "hmm , ok , try `` apt-get update '' again",
+        "speaker": "theine"
+      },
+      {
+        "text": "than click show all or something like that",
+        "speaker": "gnomefreak"
+      }
+    ],
+    "id": "9010",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 7,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 8,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 8,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "what does `` sudo rm FILEPATH do exactly anyway so i can learn",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "so the command deletes the corrupted stuff you 've got that 's messing things up",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "hi again changed this file that it looked like the one in the link.. now i get another messege..",
+        "speaker": "Gnagert"
+      },
+      {
+        "text": "are you going to tell me what that other message is ?",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "`` could'nt take status on the sourcepackagelist ''",
+        "speaker": "Gnagert"
+      },
+      {
+        "text": "did you `` sudo apt-get update '' ?",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "now there is a couple of lines when i write [ pt-cache show ftpd9",
+        "speaker": "Gnagert"
+      },
+      {
+        "text": "now you 've got the fun of working out how to set it up",
+        "speaker": "dooglus"
+      },
+      {
+        "text": "are you using archive ubuntu repos without a country code ?",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "can you paste your sources.list that you use for breezy pls",
+        "speaker": "lightbright"
+      },
+      {
+        "text": "i find it funny your the only one with issues",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "the lower half of that list will give you errors only use the upper part",
+        "speaker": "gnomefreak"
+      }
+    ],
+    "id": "9016",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Comment"
+      },
+      {
+        "y": 11,
+        "x": 9,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "what does `` error FILEPATH the selected video_out ( -vo ) device . '' mean ?",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "means you have to tell mplayer a video driver",
+        "speaker": "david_J"
+      },
+      {
+        "text": "oh i thought it could explain why all video files encoded on my system can not be opened",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "i810 intel integrated graphics chipsets",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "same as mine try with a -vo xv option from the commandline..",
+        "speaker": "david_J"
+      },
+      {
+        "text": "x11 error : badalloc ( insufficient resources for operation ) 2.8 1 0",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "look at your xorg.conf .. maybe switch it to intel not i810",
+        "speaker": "david_J"
+      },
+      {
+        "text": "ubuntu keeps switching it back to i810",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "i changed it and ran a test and it failed",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "do n't know what to tell you",
+        "speaker": "david_J"
+      },
+      {
+        "text": "hmmmm xvidcaps was able to get it to play.. once",
+        "speaker": "meoblast001"
+      },
+      {
+        "text": "did you just install some game in wine ?",
+        "speaker": "Jack_Sparrow"
+      },
+      {
+        "text": "it crashed again , these were the final lines [ sorry , no pastebin access ]",
+        "speaker": "bluefoxx"
+      }
+    ],
+    "id": "3047",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Explanation"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Elaboration"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Narration"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Result"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Background"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Result"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Narration"
+      },
+      {
+        "y": 11,
+        "x": 9,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 12,
+        "x": 11,
+        "type": "Result"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "i 've tried copying to .fonts folder , no dice",
+        "speaker": "econobeing"
+      },
+      {
+        "text": "that should work , try restarting your program",
+        "speaker": "jrib"
+      },
+      {
+        "text": "that seems to show a rather showrt uuid `` uuid= '' 4577-9ace ''",
+        "speaker": "Gumby"
+      },
+      {
+        "text": "it 's not even answering to pm 's",
+        "speaker": "kitche"
+      },
+      {
+        "text": "you should be able to just copy them to FILEPATH",
+        "speaker": "orion2012"
+      },
+      {
+        "text": "there 's got to be an easier way , i just do n't know it",
+        "speaker": "orion2012"
+      },
+      {
+        "text": "that 's got it working , thanks : d",
+        "speaker": "econobeing"
+      }
+    ],
+    "id": "4044",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Acknowledgement"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "none one here uses awesome window manager ?",
+        "speaker": "mythomaniac"
+      },
+      {
+        "text": "ive used it.. and i dont see the point.. read its docs if you want to use it..",
+        "speaker": "Dr_Willis"
+      },
+      {
+        "text": "in my case it was like wtf how i use",
+        "speaker": "sebsebseb"
+      },
+      {
+        "text": "i use an awesome wm.. it 's called compiz",
+        "speaker": "soreau"
+      },
+      {
+        "text": "the archlinux wiki page also covers it in details",
+        "speaker": "Dr_Willis"
+      },
+      {
+        "text": "i use an awesome window manager .",
+        "speaker": "SomePriest"
+      },
+      {
+        "text": "doesnt.seem like itbut i didnt do an uberly thorough search ?",
+        "speaker": "Athenon"
+      },
+      {
+        "text": "your not on windows , and there are n't really any viruses for linux as such",
+        "speaker": "sebsebseb"
+      }
+    ],
+    "id": "2043",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "says portmap is already the newest version .",
+        "speaker": "stinkman"
+      },
+      {
+        "text": "you have portmap on the server and client ?",
+        "speaker": "favro"
+      },
+      {
+        "text": "server is freebsd , been untouched for months . this ubutnu is a clean install .",
+        "speaker": "stinkman"
+      },
+      {
+        "text": "is the server hostname in FILEPATH",
+        "speaker": "favro"
+      },
+      {
+        "text": "btw , it also says mount.nfs : internal error",
+        "speaker": "stinkman"
+      },
+      {
+        "text": "added it to FILEPATH no progress",
+        "speaker": "stinkman"
+      },
+      {
+        "text": "you prob have to restart the network",
+        "speaker": "favro"
+      }
+    ],
+    "id": "4013",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Continuation"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Result"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "i 'll google around for it , thanks !",
+        "speaker": "Awsoonn"
+      },
+      {
+        "text": "just got here . what modem are you using ?",
+        "speaker": "scorpking"
+      },
+      {
+        "text": "it is a lucent winmodem , i 'm using the restricted drivers .",
+        "speaker": "Awsoonn"
+      },
+      {
+        "text": "do you have voicemail on that line ?",
+        "speaker": "MrCollins"
+      },
+      {
+        "text": "nope , too cheap for that stuff , there is nothing special about the line . xd",
+        "speaker": "Awsoonn"
+      },
+      {
+        "text": "get a hardware modem or external modem",
+        "speaker": "MrCollins"
+      },
+      {
+        "text": "any clue where it stores them ?",
+        "speaker": "tonsofpcs"
+      },
+      {
+        "text": "the software aperass to work , and is in the hcl",
+        "speaker": "Awsoonn"
+      }
+    ],
+    "id": "7027",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Result"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "someone else is downloading something so.. yeah .",
+        "speaker": "EvilZx"
+      },
+      {
+        "text": "now go to terminal , type sudo nvidia-xconfig",
+        "speaker": "_Zeus_"
+      },
+      {
+        "text": "sometimes it will prompt me again for the passphrase .",
+        "speaker": "Orbixx"
+      },
+      {
+        "text": "and do you put it in ?",
+        "speaker": "_Zeus_"
+      },
+      {
+        "text": "cool , now press ctrlaltdel and log back in",
+        "speaker": "_Zeus_"
+      },
+      {
+        "text": "worked like a charm tnx ! just hope the mod fixes the issue !",
+        "speaker": "dtech"
+      },
+      {
+        "text": "technically , restart x , not gdm , but same idea",
+        "speaker": "_Zeus_"
+      }
+    ],
+    "id": "5001",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Narration"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 0,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "whats the best bittorrent client to use on ubuntu ?",
+        "speaker": "jimmie_"
+      },
+      {
+        "text": "i use rtorrent ( a cli based torrent client ) but transmission works .",
+        "speaker": "smw"
+      },
+      {
+        "text": "would you say theres any downside to transmission over utorrent ?",
+        "speaker": "jimmie_"
+      },
+      {
+        "text": "anyways , i suggest transmission for everyone except me EMOJI",
+        "speaker": "smw"
+      },
+      {
+        "text": "because i like having an ncurses torrent client . most would be fine with transmission .",
+        "speaker": "smw"
+      },
+      {
+        "text": "not to mention rtorrent is easier to script EMOJI",
+        "speaker": "smw"
+      },
+      {
+        "text": "because they use that in creating the session .",
+        "speaker": "[V13]Axel"
+      }
+    ],
+    "id": "6016",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Explanation"
+      },
+      {
+        "y": 5,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Explanation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "dijonyummy : do a `` sudo add-apt-repository ppa : FILEPATH sudo apt-get install cdemu-daemon gcdemu ''",
+        "speaker": "WinstonSmith"
+      },
+      {
+        "text": "`` yeah , well that 's just like , your opinion man ''",
+        "speaker": "gohdan"
+      },
+      {
+        "text": "get 1 prog to convert . why not get a prog that does it all ?",
+        "speaker": "WinstonSmith"
+      },
+      {
+        "text": "i thought loopdevice could be used to mount floppy img files as well as pure hd images .",
+        "speaker": "rinkukokiri"
+      },
+      {
+        "text": "at least i 've always been able to do so .",
+        "speaker": "rinkukokiri"
+      },
+      {
+        "text": "true that . who was talking about floppy or hhd images ?",
+        "speaker": "WinstonSmith"
+      },
+      {
+        "text": "even acetoneiso cant mount certain types of containers and they will still need to be converted",
+        "speaker": "gohdan"
+      },
+      {
+        "text": "i do n't know , but you said loopdevice only supported iso files i got a bit confused",
+        "speaker": "rinkukokiri"
+      },
+      {
+        "text": "acetoniso is crap ( imho ) compared with cdemu",
+        "speaker": "WinstonSmith"
+      },
+      {
+        "text": "ah i said it only supports one type of FILEPATH image file",
+        "speaker": "WinstonSmith"
+      }
+    ],
+    "id": "3021",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Continuation"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 7,
+        "type": "Explanation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "anyone installed quake2 on ubuntu yet ?",
+        "speaker": "RIPABITCHX"
+      },
+      {
+        "text": "had quake 2 running a while ago .",
+        "speaker": "relia"
+      },
+      {
+        "text": "can you help me with the install . i do n't know how to get loki installer working",
+        "speaker": "RIPABITCHX"
+      },
+      {
+        "text": "suppose so , how far have you gotten ?",
+        "speaker": "relia"
+      },
+      {
+        "text": "i want to install ubuntu but have displayproblem after boot",
+        "speaker": "numan"
+      },
+      {
+        "text": "having problems installing the loki installer",
+        "speaker": "RIPABITCHX"
+      },
+      {
+        "text": "does it start up at all ?",
+        "speaker": "relia"
+      },
+      {
+        "text": "not sure where you 're coming from . : v",
+        "speaker": "relia"
+      },
+      {
+        "text": "its a direct connect client for linux",
+        "speaker": "wims"
+      },
+      {
+        "text": "cant seem to find libgtk-1.2.so.0 during the loki install",
+        "speaker": "RIPABITCHX"
+      },
+      {
+        "text": "is the libgtk1.2 package installed ? you might need to symlink it .",
+        "speaker": "relia"
+      },
+      {
+        "text": "you check to see if the packge libgtk1.2 was installed ?",
+        "speaker": "relia"
+      }
+    ],
+    "id": "8026",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Parallel"
+      },
+      {
+        "y": 7,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 8,
+        "x": 5,
+        "type": "Explanation"
+      },
+      {
+        "y": 9,
+        "x": 7,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 11,
+        "x": 9,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "but i want to upgrade to 0.95",
+        "speaker": "omen"
+      },
+      {
+        "text": "its more work than its worth ( what ive heard from people ) funky no they dont",
+        "speaker": "gnomefreak"
+      },
+      {
+        "text": "its not hard to install .packages",
+        "speaker": "kbrooks"
+      },
+      {
+        "text": "autopackages auto-install the autopackage manager do n't they",
+        "speaker": "funkyHat"
+      },
+      {
+        "text": "the channel for ap talk is autopackage",
+        "speaker": "kbrooks"
+      },
+      {
+        "text": "so no need to visit the site",
+        "speaker": "funkyHat"
+      },
+      {
+        "text": "uninstall amsn , and then chmod x packagename.package sudo .FILEPATH",
+        "speaker": "funkyHat"
+      },
+      {
+        "text": "ahh , that 's easier to follow",
+        "speaker": "funkyHat"
+      },
+      {
+        "text": "does he really want to install from cli ? EMOJI",
+        "speaker": "kbrooks"
+      },
+      {
+        "text": "look at the link that kbrooks just posted : how to install without using the command line EMOJI",
+        "speaker": "funkyHat"
+      }
+    ],
+    "id": "9042",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 7,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 9,
+        "x": 0,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "you need to have x running on the server . EMOJI",
+        "speaker": "Kr0ntab"
+      },
+      {
+        "text": "i installed xserver-xorg , do i need to install metapackage as well ?",
+        "speaker": "KevinOman"
+      },
+      {
+        "text": "xserver-xorg is a metapackage try running firefox",
+        "speaker": "Kr0ntab"
+      },
+      {
+        "text": "ok looks like it worked after i resterted the server , thanks for your help",
+        "speaker": "KevinOman"
+      },
+      {
+        "text": "no problem . glad to help .",
+        "speaker": "Kr0ntab"
+      },
+      {
+        "text": "it says it ca n't find channels.conf",
+        "speaker": "Ashfire908"
+      },
+      {
+        "text": "while opening a .mov file . the .wmv has a bad audio track",
+        "speaker": "Ashfire908"
+      }
+    ],
+    "id": "3018",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Continuation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "what is that image posting site like pastebin ? let me upload the screenshot",
+        "speaker": "cantmountanyhd"
+      },
+      {
+        "text": "ca n't just paste the text ?",
+        "speaker": "codebrainz"
+      },
+      {
+        "text": "this comes up in google : URL",
+        "speaker": "codebrainz"
+      },
+      {
+        "text": "easiest solution is to boot back into windows and shutdown properly",
+        "speaker": "codebrainz"
+      },
+      {
+        "text": "but i have done it so many times",
+        "speaker": "cantmountanyhd"
+      },
+      {
+        "text": "then i have done it more than a few times",
+        "speaker": "cantmountanyhd"
+      },
+      {
+        "text": "you can mount with the -- force option , by doing it manually",
+        "speaker": "codebrainz"
+      }
+    ],
+    "id": "3001",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Narration"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Parallel"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "geforce4 mx 440 with agp8x ( gpu 0",
+        "speaker": "Cmclean"
+      },
+      {
+        "text": "just hit ctrl.altbackspace ( save and close out stuff before you do so )",
+        "speaker": "deagle"
+      },
+      {
+        "text": "umm there is no default res thingy when i do that .",
+        "speaker": "Cmclean"
+      },
+      {
+        "text": "who in the what now : ?",
+        "speaker": "deagle"
+      },
+      {
+        "text": "the command you gave sudo get some file conf.x",
+        "speaker": "Cmclean"
+      },
+      {
+        "text": "i think he said sudo gedit conf.xorg",
+        "speaker": "AlexPalmer"
+      },
+      {
+        "text": "goto where it says section `` screen ''",
+        "speaker": "deagle"
+      },
+      {
+        "text": "subsection `` display '' then modes `` 1280x1024 '' `` 1600x1200 '' etc",
+        "speaker": "deagle"
+      },
+      {
+        "text": "thas the whole thing ctrla paste",
+        "speaker": "Cmclean"
+      },
+      {
+        "text": "FILEPATH that into the xorg.conf file overwrite your section `` screen '' with that one",
+        "speaker": "deagle"
+      }
+    ],
+    "id": "2009",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Result"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "does anyone knows how can i compress a jpeg picture ( by reducing its quality )",
+        "speaker": "abo"
+      },
+      {
+        "text": "the gimp will do it too",
+        "speaker": "krazykit"
+      },
+      {
+        "text": "mikelo , i could n't figure out how to do it using gimp , can you help ?",
+        "speaker": "abo"
+      },
+      {
+        "text": "u need to reduce size or quality or both ?",
+        "speaker": "Mikelo"
+      },
+      {
+        "text": "so i need to reduce quality",
+        "speaker": "abo"
+      },
+      {
+        "text": "open jpg file in jpg then save as change quality",
+        "speaker": "Mikelo"
+      },
+      {
+        "text": "you have access to a stream already ?",
+        "speaker": "_rodney"
+      },
+      {
+        "text": "save-as and you can save it with lower quality",
+        "speaker": "krazykit"
+      },
+      {
+        "text": "convert -quality x old_file.jpg new_file.jpg play with x try 4,3,7",
+        "speaker": "Mikelo"
+      },
+      {
+        "text": "then ll .jpg to verify size",
+        "speaker": "Mikelo"
+      },
+      {
+        "text": "the gimp seems to have worked , i 'll do the convert quality one now",
+        "speaker": "abo"
+      }
+    ],
+    "id": "4049",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Continuation"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Explanation"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 8,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Explanation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "no i am installing archlinux and i want to kill the nano process , ozette",
+        "speaker": "pungi_man"
+      },
+      {
+        "text": "ctrlx will exit nano , use the other ctrl if necessary",
+        "speaker": "ActionParsnip"
+      },
+      {
+        "text": "oh i see the ctrl button is probably captured by virtual box",
+        "speaker": "ozette"
+      },
+      {
+        "text": "i tried its not working !",
+        "speaker": "pungi_man"
+      },
+      {
+        "text": "maybe its a known issue with arch virtualbox",
+        "speaker": "ActionParsnip"
+      },
+      {
+        "text": "left ctrl x should ask for a save changes",
+        "speaker": "ozette"
+      },
+      {
+        "text": "i tried left and right ctrl its not working",
+        "speaker": "pungi_man"
+      },
+      {
+        "text": "i 'd ask in vbox and archlinux",
+        "speaker": "ActionParsnip"
+      },
+      {
+        "text": "that 's silly but , good luck EMOJI",
+        "speaker": "ozette"
+      }
+    ],
+    "id": "8039",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Conditional"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Continuation"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Continuation"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Continuation"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Continuation"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Continuation"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "ok likwidoxigen ill reboot and let you know how it goes",
+        "speaker": "Nuked"
+      },
+      {
+        "text": "who makes the printers ? and they woked before yets ?",
+        "speaker": "Likwidoxigen"
+      },
+      {
+        "text": "yes they worked excellently on dapper . they are two hp deskjets",
+        "speaker": "Nuked"
+      },
+      {
+        "text": "does n't give me the address",
+        "speaker": "nbx909"
+      },
+      {
+        "text": "the device number shoudl be the adress i.e . FILEPATH",
+        "speaker": "Likwidoxigen"
+      },
+      {
+        "text": "ok let me keep poking",
+        "speaker": "Likwidoxigen"
+      },
+      {
+        "text": "i know but it 's a ups ( battery backup ) device would it be under sda ?",
+        "speaker": "nbx909"
+      },
+      {
+        "text": "i used kde 's add printer wizard , and only samba printers are allowed",
+        "speaker": "Nuked"
+      },
+      {
+        "text": "i 'd assume so , it still has to access the device",
+        "speaker": "Likwidoxigen"
+      },
+      {
+        "text": "damn do any usb device work ?",
+        "speaker": "Likwidoxigen"
+      }
+    ],
+    "id": "1003",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 2,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Continuation"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 9,
+        "x": 7,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "i 'm a linux n00b , so bare with me",
+        "speaker": "stisev"
+      },
+      {
+        "text": "please specify the nature of the need for help",
+        "speaker": "enyc"
+      },
+      {
+        "text": "it says that it found it in the base but that the file is missing",
+        "speaker": "Lanfeust21"
+      },
+      {
+        "text": "5.10 breezy okay",
+        "speaker": "enyc"
+      },
+      {
+        "text": "errrrrrrrrr try doing an 'apt-get ugdate ' then doing that install command",
+        "speaker": "enyc"
+      },
+      {
+        "text": "please giwve the FILEPATH it complains about",
+        "speaker": "enyc"
+      },
+      {
+        "text": "is there any way i can just rerun rtorrent ?",
+        "speaker": "stisev"
+      }
+    ],
+    "id": "1027",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "this is what i get for attempting to upgrade to the latest nvidia drivers EMOJI",
+        "speaker": "thyazide"
+      },
+      {
+        "text": "sudo apt-get update sudo apt-get install linux-image-generic linux-restricted-modules-generic nvidia-glx sudo apt-get dist-upgrade",
+        "speaker": "mneptok"
+      },
+      {
+        "text": "is rthere a way ?",
+        "speaker": "eternaljoy"
+      },
+      {
+        "text": "yes , you reformat it like in any other os",
+        "speaker": "mneptok"
+      },
+      {
+        "text": "i tried this cd alternate also but it is only text mode installation not on the net ?",
+        "speaker": "numan"
+      },
+      {
+        "text": "can i reformat ubuntu while its running itself ?",
+        "speaker": "eternaljoy"
+      },
+      {
+        "text": "0 upgraded , 0 newly installed , 0 to remove and 0 not upgraded .",
+        "speaker": "thyazide"
+      },
+      {
+        "text": "i am going to install ubuntu 6.10 alternate cd image can you help me during installtion ?",
+        "speaker": "numan"
+      },
+      {
+        "text": "that 's because you still had the repo drivers installed when you ran the manual installer",
+        "speaker": "crdlb"
+      },
+      {
+        "text": "if i ask you for something ?",
+        "speaker": "numan"
+      },
+      {
+        "text": "so i format it from a livecd or something ?",
+        "speaker": "eternaljoy"
+      },
+      {
+        "text": "i can ( try to ) guide you through the process back to the repo drivers in ubuntu-effects",
+        "speaker": "crdlb"
+      }
+    ],
+    "id": "8018",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Explanation"
+      },
+      {
+        "y": 9,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 10,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 11,
+        "x": 6,
+        "type": "Continuation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "and i have input output errors",
+        "speaker": "rhodry_2409"
+      },
+      {
+        "text": "what filesystem are you using on your sd , did you empty the trash ?",
+        "speaker": "comicinker"
+      },
+      {
+        "text": "my system is in french , i will try to translate",
+        "speaker": "rhodry_2409"
+      },
+      {
+        "text": "error when open the file : input and output erreor",
+        "speaker": "rhodry_2409"
+      },
+      {
+        "text": "ah , vous parlez en francaise , mais , je ne parlez pas EMOJI . what filesystem ?",
+        "speaker": "comicinker"
+      },
+      {
+        "text": "yes , i have format the card just before trying tor write on it",
+        "speaker": "rhodry_2409"
+      },
+      {
+        "text": "did you try fsck on it ?",
+        "speaker": "comicinker"
+      },
+      {
+        "text": "yes in fact i can write on it with gparted live-cd but no with ubuntu .",
+        "speaker": "rhodry_2409"
+      }
+    ],
+    "id": "1",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Elaboration"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Background"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "how to uninstall a compiled application please",
+        "speaker": "TrD"
+      },
+      {
+        "text": "and you cd into the source dirctory and did sudo make uninstall , , , yes ?",
+        "speaker": "coz_"
+      },
+      {
+        "text": "what is the package you compiled ?",
+        "speaker": "coz_"
+      },
+      {
+        "text": "let me see if i can f ind that",
+        "speaker": "coz_"
+      },
+      {
+        "text": "mate it still wo n't play . it plays fine in a browser",
+        "speaker": "thegoodcushion"
+      },
+      {
+        "text": "did you download the ubuntu package for that or did you actually compile it ?",
+        "speaker": "coz_"
+      },
+      {
+        "text": "and you still have the source directory .. yes ?",
+        "speaker": "coz_"
+      },
+      {
+        "text": "hmm , , , what is the readout again with sudo make uninstall from source directory ?",
+        "speaker": "coz_"
+      }
+    ],
+    "id": "3040",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Result"
+      },
+      {
+        "y": 5,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 0,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "aptitude install gcc-4.1-base , only installes to FILEPATH here joaopinto i have no gcc-4.1 binary",
+        "speaker": "dxlr8r"
+      },
+      {
+        "text": "dpkg -l gcc-4.1 , i go the the binaries listed there",
+        "speaker": "joaopinto"
+      },
+      {
+        "text": "i do not clean install , not installed a single package more",
+        "speaker": "dxlr8r"
+      },
+      {
+        "text": "sudo apt-get install -- reinstall gcc-4.1",
+        "speaker": "joaopinto"
+      },
+      {
+        "text": "what are the linux headers",
+        "speaker": "liquid"
+      },
+      {
+        "text": "you have those installed already , they are required to build kernel modules",
+        "speaker": "joaopinto"
+      },
+      {
+        "text": "but that leaves the `` - filename '' stuff there",
+        "speaker": "lee_1"
+      },
+      {
+        "text": "i just did an apt-get an installed them",
+        "speaker": "liquid"
+      },
+      {
+        "text": "so it 's fine , your problem is not missing headers",
+        "speaker": "joaopinto"
+      },
+      {
+        "text": "then you need to use either cut or awk , to get only a part",
+        "speaker": "joaopinto"
+      },
+      {
+        "text": "better ask on bash or a scripting channel",
+        "speaker": "joaopinto"
+      },
+      {
+        "text": "hummmm thats weird what does it mean nvidia kernel modual",
+        "speaker": "liquid"
+      }
+    ],
+    "id": "2014",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Result"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Correction"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 11,
+        "x": 10,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "tomy , why are you trying to remove it ?",
+        "speaker": "Out_Cold"
+      },
+      {
+        "text": "if you use the bs=xxxxx option . it will copy much faster also .",
+        "speaker": "Dr_willis"
+      },
+      {
+        "text": "with the FILEPATH error as well though ?",
+        "speaker": "Out_Cold"
+      },
+      {
+        "text": "its reading till it cant read no more . EMOJI basicially.. 4013539328 bytes ( 4.0 gb ) copied",
+        "speaker": "Dr_willis"
+      },
+      {
+        "text": "but i only get 3.5 gb out of it..",
+        "speaker": "Out_Cold"
+      },
+      {
+        "text": "some block size . checn the dd man page.. normally its like 1024 , or 2048 or something .",
+        "speaker": "Dr_willis"
+      },
+      {
+        "text": "i copy dvd 's that way all the time . and never have issues with them .",
+        "speaker": "Dr_willis"
+      }
+    ],
+    "id": "2029",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Result"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "! who subcool , papashou ( and please go easy on your enter key )",
+        "speaker": "jrib"
+      },
+      {
+        "text": "it 's the same thing even if i uncheck running as a login shell",
+        "speaker": "lesce"
+      },
+      {
+        "text": "is it that much of an issue ?",
+        "speaker": "papashou"
+      },
+      {
+        "text": "in a channel with so many users , it 's very helpful , yes",
+        "speaker": "jrib"
+      },
+      {
+        "text": "if so , i will just take it to private chat- then no one can benefit .",
+        "speaker": "papashou"
+      },
+      {
+        "text": "then i 'd suggest you clear your zsh-related .z files and start with something simple to troubleshoot",
+        "speaker": "jrib"
+      },
+      {
+        "text": "since i need everythign in FILEPATH accessable , should i just do chmod x .",
+        "speaker": "subcool"
+      }
+    ],
+    "id": "8044",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Conditional"
+      },
+      {
+        "y": 5,
+        "x": 1,
+        "type": "Conditional"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Conditional"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "how can i check what driver my ethernet card is using ?",
+        "speaker": "refuze2looze"
+      },
+      {
+        "text": "hmmm try this , open FILEPATH",
+        "speaker": "chicken-man"
+      },
+      {
+        "text": "damn , i cant even find vim and echo `` xyz '' FILEPATH wont work either",
+        "speaker": "miki"
+      },
+      {
+        "text": "look in 'FILEPATH and see if you can see them",
+        "speaker": "chicken-man"
+      },
+      {
+        "text": "how to run vim under ubuntu ?",
+        "speaker": "miki"
+      },
+      {
+        "text": "same way you run it anywhere else",
+        "speaker": "johndarkhorse"
+      },
+      {
+        "text": "open a terminal , type `` vim ''",
+        "speaker": "chicken-man"
+      }
+    ],
+    "id": "1024",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "hey guyshow come when i select a theme on emerald themer nothing happens ? ?",
+        "speaker": "cheese28"
+      },
+      {
+        "text": "i 'm really bad at spelling deprecated . =d",
+        "speaker": "RyanPrior"
+      },
+      {
+        "text": "what kernel version worked and which one was broken ?",
+        "speaker": "raylu"
+      },
+      {
+        "text": "how do i get a list of all the kernels i have installed ? i 'm currently using 2.6.24-23-generic",
+        "speaker": "RyanPrior"
+      },
+      {
+        "text": "it 's the newest one in hardy heron",
+        "speaker": "RyanPrior"
+      },
+      {
+        "text": "heh . hardy is really old EMOJI",
+        "speaker": "raylu"
+      },
+      {
+        "text": "i guess if you 're a kernel person , then things move pretty quick .",
+        "speaker": "RyanPrior"
+      }
+    ],
+    "id": "34",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "hi all - how do i run a script at startup ? thanks",
+        "speaker": "luca"
+      },
+      {
+        "text": "i think adding the scripts pathname in startup applications will do the trick",
+        "speaker": "thameera"
+      },
+      {
+        "text": "thanks - so just literally type in the path ?",
+        "speaker": "luca"
+      },
+      {
+        "text": "and make sure you give the script executable privileges",
+        "speaker": "thameera"
+      },
+      {
+        "text": "yeppo , i have.. chmod x right ?",
+        "speaker": "luca"
+      },
+      {
+        "text": "thanks - bit of a noob as you can see : d",
+        "speaker": "luca"
+      },
+      {
+        "text": "i doubt it - anyway , thanks a lot EMOJI ciao",
+        "speaker": "luca"
+      }
+    ],
+    "id": "6037",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 3,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "i want to install that 10.04 beside windows",
+        "speaker": "Norwack"
+      },
+      {
+        "text": "also have a look here for a step-by-step : URL",
+        "speaker": "Sidewinder1"
+      },
+      {
+        "text": "but do n't go anywhere near wubi !",
+        "speaker": "Sidewinder1"
+      },
+      {
+        "text": "what you 're lookin ' for is dual boot .",
+        "speaker": "Sidewinder1"
+      },
+      {
+        "text": "first time ubuntu user ?",
+        "speaker": "BluesKaj"
+      },
+      {
+        "text": "a guy 's got ta ' have some fun.. EMOJI",
+        "speaker": "Sidewinder1"
+      },
+      {
+        "text": "he wants to dual boot with 10.04 , does n't care for unity ; imagine that..",
+        "speaker": "Sidewinder1"
+      }
+    ],
+    "id": "9026",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Elaboration"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Explanation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "can anyone tell me how to determine which ubuntu version i 'm running ?",
+        "speaker": "meefs"
+      },
+      {
+        "text": "menu - system - about ubuntu ?",
+        "speaker": "ashmo"
+      },
+      {
+        "text": "media and mnt are the normal places",
+        "speaker": "lemonsCC"
+      },
+      {
+        "text": "is n't FILEPATH for cds , etc ?",
+        "speaker": "ashmo"
+      },
+      {
+        "text": "you can throw a hd there too",
+        "speaker": "lemonsCC"
+      },
+      {
+        "text": "media gets an icon on the desktop and mnt doesnt is the difference",
+        "speaker": "lemonsCC"
+      },
+      {
+        "text": "ah , so mnt makes more sense if most users wo n't have access .",
+        "speaker": "ashmo"
+      },
+      {
+        "text": "well they will still have accessif they know where to look",
+        "speaker": "lemonsCC"
+      },
+      {
+        "text": "have it mount in your home folder",
+        "speaker": "lemonsCC"
+      },
+      {
+        "text": "you could mount it with nouser then only root can mount it assuming you have the only root access",
+        "speaker": "lemonsCC"
+      }
+    ],
+    "id": "4024",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Continuation"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "how to install sun java 6",
+        "speaker": "pawan"
+      },
+      {
+        "text": "are you not using feisty ?",
+        "speaker": "dystopianray"
+      },
+      {
+        "text": "everytime i go to a site with java , my firefox crashes .",
+        "speaker": "dissection"
+      },
+      {
+        "text": "it used to work fine with firefox bofore but recently installed updates and now java does n't work .",
+        "speaker": "dissection"
+      },
+      {
+        "text": "neither k3b nor gnomebaker could handle the cd i 'm trying to clone",
+        "speaker": "Nergar"
+      },
+      {
+        "text": "did you select 'clone ' mode ?",
+        "speaker": "dystopianray"
+      },
+      {
+        "text": "is it a copy protected cd ?",
+        "speaker": "dystopianray"
+      }
+    ],
+    "id": "7048",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Contrast"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "bacon5o there 's no `` fixmbr '' with ubuntu .",
+        "speaker": "sipher"
+      },
+      {
+        "text": "xaa is old acceleration architecture , exa is the new one , font rendering is so much FILEPATH",
+        "speaker": "morfic"
+      },
+      {
+        "text": "i dont want ubuntu , it does n't support my internet , thus i can not use it",
+        "speaker": "Bacon5o"
+      },
+      {
+        "text": "your internet is different from mine ? damn bush and his internets !",
+        "speaker": "morfic"
+      },
+      {
+        "text": "my internet is differentwhy you ask ?",
+        "speaker": "Bacon5o"
+      },
+      {
+        "text": "your possesive `` my '' on the internet",
+        "speaker": "morfic"
+      },
+      {
+        "text": "i use a wireless accesspoint that plugs into my usb which then goes into my motherboard",
+        "speaker": "Bacon5o"
+      }
+    ],
+    "id": "1001",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Continuation"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "how would i launch it ? ( it does n't say in install file )",
+        "speaker": "majd_"
+      },
+      {
+        "text": "here 's how to build it",
+        "speaker": "ssstormy"
+      },
+      {
+        "text": "checkinstall is better than make install",
+        "speaker": "_jason"
+      },
+      {
+        "text": "i replace sudo with the name of the .tar.gz file right ?",
+        "speaker": "majd_"
+      },
+      {
+        "text": "that does n't sound right , what command are you referring to exactly",
+        "speaker": "_jason"
+      },
+      {
+        "text": "btw , is there a reason you are n't using the packaged gtkpod ?",
+        "speaker": "_jason"
+      },
+      {
+        "text": "yes that will install 'checkinstall ' for you",
+        "speaker": "_jason"
+      }
+    ],
+    "id": "5033",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Q_Elab"
+      },
+      {
+        "y": 6,
+        "x": 3,
+        "type": "Question_answer_pair"
+      }
+    ]
+  },
+  {
+    "edus": [
+      {
+        "text": "camaxtli : routers ip sorry as the gateway",
+        "speaker": "Linux_Galore"
+      },
+      {
+        "text": "yeah but what processor arch does desktop fall under ?",
+        "speaker": "rambo3"
+      },
+      {
+        "text": "x86 is sometimes shown as i386 or i686",
+        "speaker": "Linux_Galore"
+      },
+      {
+        "text": "so you are saying ppc dont have desktops ?",
+        "speaker": "rambo3"
+      },
+      {
+        "text": "think apple machines or rare as hell ibm ppc desktops",
+        "speaker": "Linux_Galore"
+      },
+      {
+        "text": "you dont have to explain to me processor arch , just how you think ppc is not desktop",
+        "speaker": "rambo3"
+      },
+      {
+        "text": "you 'll be hardpressed finding an ibm ppc desktop these days",
+        "speaker": "Kendreague"
+      },
+      {
+        "text": "i never said it wasnt a desktop , i said it isnt pc",
+        "speaker": "Linux_Galore"
+      }
+    ],
+    "id": "8012",
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Question_answer_pair"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Question_answer_pair"
+      }
+    ]
+  }
+]
