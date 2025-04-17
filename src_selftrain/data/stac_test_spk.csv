@@ -1,0 +1,1129 @@
+text	label	edu1_idx	edu2_idx	file
+spk1: anyone have clay? :) [SEP] spk1: I have wheat and wood	Elaboration	0	1	s1-league3-game3_1
+spk1: anyone have clay? :) [SEP] spk2: no sorry	Question_answer_pair	0	2	s1-league3-game3_1
+spk1: anyone have clay? :) [SEP] spk3: not any more,	Question_answer_pair	0	3	s1-league3-game3_1
+spk1: anyone have clay? :) [SEP] spk4: nope,	Question_answer_pair	0	5	s1-league3-game3_1
+spk4: nope, [SEP] spk4: no clay	Elaboration	5	6	s1-league3-game3_1
+spk4: nope, [SEP] spk1: oh well	Acknowledgement	5	7	s1-league3-game3_1
+spk2: no sorry [SEP] spk1: oh well	Acknowledgement	2	7	s1-league3-game3_1
+spk3: not any more, [SEP] spk1: oh well	Acknowledgement	3	7	s1-league3-game3_1
+spk3: not any more, [SEP] spk3: sorry	Comment	3	4	s1-league3-game3_1
+spk2: if only someone can roll a 3 [SEP] spk1: so true	Acknowledgement	0	1	s1-league3-game3_2
+spk2: oop [SEP] spk1: I've made that mistake numerous times. :P	Comment	2	3	s1-league3-game3_2
+spk4: i'm guessing nobody has any clay? [SEP] spk1: Not me anyway	Question_answer_pair	4	5	s1-league3-game3_2
+spk3: sorry, [SEP] spk3: nope	Explanation	6	7	s1-league3-game3_2
+spk4: i'm guessing nobody has any clay? [SEP] spk3: nope	Question_answer_pair	4	7	s1-league3-game3_2
+spk2: if only someone can roll a 3 [SEP] spk4: i'm guessing nobody has any clay?	Continuation	0	4	s1-league3-game3_2
+spk3: anyone got sheep? [SEP] spk3: I can give anything but clay	Elaboration	10	11	s1-league3-game3_2
+spk1: sorry, [SEP] spk1: I don't.	Explanation	12	13	s1-league3-game3_2
+spk3: anyone got sheep? [SEP] spk1: sorry,	Question_answer_pair	10	12	s1-league3-game3_2
+spk3: anyone got sheep? [SEP] spk4: sorry	Question_answer_pair	10	14	s1-league3-game3_2
+spk2: i got one [SEP] spk2: i can give you	Elaboration	15	16	s1-league3-game3_2
+spk2: i can give you [SEP] spk2: but i need wheat	Elaboration	16	17	s1-league3-game3_2
+spk2: i got one [SEP] spk3: too late now,	Question_answer_pair	15	18	s1-league3-game3_2
+spk2: i got one [SEP] spk3: cheers anyway	Comment	15	19	s1-league3-game3_2
+spk1: why can't a 3 be rolled?? :( [SEP] spk2: finally	Narration	9	20	s1-league3-game3_2
+spk2: finally [SEP] spk1: haha	Comment	20	21	s1-league3-game3_2
+spk4: i'm guessing nobody has any clay? [SEP] spk1: why can't a 3 be rolled?? :(	Continuation	4	9	s1-league3-game3_2
+spk4: i'm guessing nobody has any clay? [SEP] spk2: i think this is the problem with the game	Comment	4	8	s1-league3-game3_2
+spk3: anyone got sheep? [SEP] spk2: i got one	Question_answer_pair	10	15	s1-league3-game3_2
+spk3: too late now, [SEP] spk3: cheers anyway	Contrast	18	19	s1-league3-game3_2
+spk3: nope [SEP] spk3: anyone got sheep?	Continuation	7	10	s1-league3-game3_2
+spk1: anyone got wheat [SEP] spk1: and need wood?	Continuation	0	1	s1-league3-game3_3
+spk1: anyone got wheat [SEP] spk2: not me, sorry	Question_answer_pair	0	2	s1-league3-game3_3
+spk1: anyone got wheat [SEP] spk3: me neither	Question_answer_pair	0	3	s1-league3-game3_3
+spk2: not me, sorry [SEP] spk3: me neither	Parallel	2	3	s1-league3-game3_3
+spk3: me neither [SEP] spk1: ok, thanks anyway	Acknowledgement	3	4	s1-league3-game3_3
+spk2: not me, sorry [SEP] spk1: ok, thanks anyway	Acknowledgement	2	4	s1-league3-game3_3
+spk4: anyone have ore. [SEP] spk4: I have some wood to trade	Elaboration	0	1	s1-league3-game3_4
+spk4: anyone have ore. [SEP] spk2: no sorry	Question_answer_pair	0	2	s1-league3-game3_4
+spk4: anyone have ore. [SEP] spk3: nope, sorry	Question_answer_pair	0	3	s1-league3-game3_4
+spk4: anyone have ore. [SEP] spk1: no, sorry	Question_answer_pair	0	4	s1-league3-game3_4
+spk1: evening [SEP] spk3: Hey	Continuation	2	3	s1-league3-game3_5
+spk3: Hey [SEP] spk1: How are you today?	Clarification_question	3	4	s1-league3-game3_5
+spk1: evening [SEP] spk4: hi	Acknowledgement	2	5	s1-league3-game3_5
+spk3: Hey [SEP] spk4: hi	Acknowledgement	3	5	s1-league3-game3_5
+spk1: How are you today? [SEP] spk3: Not bad thanks,	Question_answer_pair	4	6	s1-league3-game3_5
+spk3: Not bad thanks, [SEP] spk3: you?	Clarification_question	6	7	s1-league3-game3_5
+spk3: you? [SEP] spk1: Yeah, pretty good	Question_answer_pair	7	8	s1-league3-game3_5
+spk1: Yeah, pretty good [SEP] spk1: :)	Continuation	8	9	s1-league3-game3_5
+spk3: Getting a bit of a deja vu here... [SEP] spk1: Yin we're waiting for, I suppose...	Elaboration	10	11	s1-league3-game3_5
+spk1: Yin we're waiting for, I suppose... [SEP] spk3: Indeed	Acknowledgement	11	12	s1-league3-game3_5
+spk3: Indeed [SEP] spk1: great minds, inca...	Comment	12	13	s1-league3-game3_5
+spk3: Indeed [SEP] spk3: Ah he says he's coming	Narration	12	14	s1-league3-game3_5
+spk3: Ah he says he's coming [SEP] spk3: Hey	Continuation	14	15	s1-league3-game3_5
+spk3: Ah he says he's coming [SEP] spk3: Good luck all	Narration	14	18	s1-league3-game3_5
+spk3: Good luck all [SEP] spk1: you too	Continuation	18	19	s1-league3-game3_5
+spk3: Not bad thanks, [SEP] spk3: Getting a bit of a deja vu here...	Comment	6	10	s1-league3-game3_5
+spk3: Hey [SEP] spk4: hi	Acknowledgement	0	1	s1-league3-game3_5
+spk4: hi [SEP] spk1: evening	Acknowledgement	1	2	s1-league3-game3_5
+spk3: Hey [SEP] spk1: evening	Acknowledgement	0	2	s1-league3-game3_5
+spk3: Hey [SEP] spk2: yes	Acknowledgement	15	16	s1-league3-game3_5
+spk2: yes [SEP] spk2: finally	Elaboration	16	17	s1-league3-game3_5
+spk1: ? [SEP] spk2: build road	Question_answer_pair	0	1	s1-league3-game3_6
+spk2: build road [SEP] spk3: think we're meant to negotiate trades in the chat before offering	Contrast	1	2	s1-league3-game3_6
+spk3: think we're meant to negotiate trades in the chat before offering [SEP] spk2: oop	Comment	2	3	s1-league3-game3_6
+spk3: think we're meant to negotiate trades in the chat before offering [SEP] spk2: ok then	Acknowledgement	2	4	s1-league3-game3_6
+spk3: think we're meant to negotiate trades in the chat before offering [SEP] spk3: part of the guys' experiment	Elaboration	2	5	s1-league3-game3_6
+spk3: part of the guys' experiment [SEP] spk2: oh i see	Acknowledgement	5	6	s1-league3-game3_6
+spk2: do anyone have clay or wheat [SEP] spk1: nope	Question_answer_pair	0	1	s1-league3-game3_7
+spk2: do anyone have clay or wheat [SEP] spk3: sorry, nope	Question_answer_pair	0	2	s1-league3-game3_7
+spk2: do anyone have clay or wheat [SEP] spk4: nope sorry	Question_answer_pair	0	3	s1-league3-game3_7
+spk1: anyone have wood? [SEP] spk1: I can spare sheep, ore or wheat?	Elaboration	0	1	s1-league3-game3_8
+spk3: i've got wood, [SEP] spk3: trade for ore?	Q_Elab	2	3	s1-league3-game3_8
+spk1: anyone have wood? [SEP] spk3: i've got wood,	Question_answer_pair	0	2	s1-league3-game3_8
+spk1: anyone have wood? [SEP] spk2: nope sry	Question_answer_pair	0	4	s1-league3-game3_8
+spk3: trade for ore? [SEP] spk1: deal	Question_answer_pair	3	5	s1-league3-game3_8
+spk4: does anyone have any clay to trade? [SEP] spk3: none, sorry	Question_answer_pair	0	1	s1-league3-game3_9
+spk4: does anyone have any clay to trade? [SEP] spk1: no, sorry	Question_answer_pair	0	2	s1-league3-game3_9
+spk4: does anyone have any clay to trade? [SEP] spk2: no sry	Question_answer_pair	0	3	s1-league3-game3_9
+spk2: do anyone need ore [SEP] spk3: i'll trade for sheep?	Q_Elab	0	1	s1-league3-game3_10
+spk3: i'll trade for sheep? [SEP] spk2: yes thank you	Question_answer_pair	1	2	s1-league3-game3_10
+spk2: yes thank you [SEP] spk3: cool	Acknowledgement	2	3	s1-league3-game3_10
+spk4: could do with some wheat though [SEP] spk4: if anyone has any	Conditional	5	6	s1-league3-game3_10
+spk2: do anyone need ore [SEP] spk1: sorry, I'm no help	Question_answer_pair	0	7	s1-league3-game3_10
+spk2: yes [SEP] spk2: i also need wheat :)	Elaboration	8	9	s1-league3-game3_10
+spk4: if anyone has any [SEP] spk2: yes	Acknowledgement	6	8	s1-league3-game3_10
+spk4: if anyone has any [SEP] spk3: no wheat here, sorry	Question_answer_pair	6	10	s1-league3-game3_10
+spk4: i'm ok for ore at the mo. [SEP] spk4: if anyone has any	Contrast	4	6	s1-league3-game3_10
+spk2: do anyone need ore [SEP] spk4: i'm ok for ore at the mo.	Question_answer_pair	0	4	s1-league3-game3_10
+spk4: if anyone has any [SEP] spk2: i also need wheat :)	Parallel	6	9	s1-league3-game3_10
+spk4: anyone have wood to trade. I have sheep [SEP] spk2: no	Question_answer_pair	0	1	s1-league3-game3_11
+spk4: anyone have wood to trade. I have sheep [SEP] spk1: Sorry,	Question_answer_pair	0	2	s1-league3-game3_11
+spk1: Sorry, [SEP] spk1: I need wood too	Comment	2	3	s1-league3-game3_11
+spk1: I need wood too [SEP] spk1: if you want	Contrast	3	5	s1-league3-game3_11
+spk4: anyone have wood to trade. I have sheep [SEP] spk3: do you have wheat kieran?	Q_Elab	0	6	s1-league3-game3_11
+spk3: if so [SEP] spk3: i can trade wood	Conditional	7	8	s1-league3-game3_11
+spk3: do you have wheat kieran? [SEP] spk4: sorry,	Question_answer_pair	6	9	s1-league3-game3_11
+spk4: sorry, [SEP] spk4: plenty of sheep though :)	Contrast	9	10	s1-league3-game3_11
+spk1: I have wheat [SEP] spk1: if you want	Conditional	4	5	s1-league3-game3_11
+spk3: do you have wheat kieran? [SEP] spk3: if so	Explanation	6	7	s1-league3-game3_11
+spk1: anyone have clay or sheep? [SEP] spk1: I can give wheat.	Elaboration	0	1	s1-league3-game3_12
+spk1: anyone have clay or sheep? [SEP] spk2: i'll trade sheep for wheat	Question_answer_pair	0	2	s1-league3-game3_12
+spk1: anyone have clay or sheep? [SEP] spk3: me too	Question_answer_pair	0	3	s1-league3-game3_12
+spk2: i'll trade sheep for wheat [SEP] spk3: me too	Parallel	2	3	s1-league3-game3_12
+spk2: i'll trade sheep for wheat [SEP] spk1: deal	Acknowledgement	2	4	s1-league3-game3_12
+spk1: deal [SEP] spk3: ...	Comment	4	5	s1-league3-game3_12
+spk3: ... [SEP] spk1: sorry!	Comment	5	6	s1-league3-game3_12
+spk1: sorry! [SEP] spk3: :)	Comment	6	7	s1-league3-game3_12
+spk2: does anyone have clay [SEP] spk3: i need mine,	Question_answer_pair	0	1	s1-league3-game3_13
+spk3: i need mine, [SEP] spk3: sorry	Comment	1	2	s1-league3-game3_13
+spk2: does anyone have clay [SEP] spk4: nope,	Question_answer_pair	0	3	s1-league3-game3_13
+spk2: does anyone have clay [SEP] spk1: no sorry	Question_answer_pair	0	5	s1-league3-game3_13
+spk4: nope, [SEP] spk4: looking for the same thing	Comment	3	4	s1-league3-game3_13
+spk4: thanks [SEP] spk1: no prob mate	Comment	0	1	s1-league3-game3_14
+spk2: anyone got clay or wheat [SEP] spk4: wow inca.. must be bathing in clay now	Comment	2	3	s1-league3-game3_14
+spk4: wow inca.. must be bathing in clay now [SEP] spk3: haha, yep	Acknowledgement	3	4	s1-league3-game3_14
+spk2: anyone got clay or wheat [SEP] spk3: haha, yep	Question_answer_pair	2	4	s1-league3-game3_14
+spk3: haha, yep [SEP] spk2: what do you need	Q_Elab	4	5	s1-league3-game3_14
+spk3: haha, yep [SEP] spk1: want some ore for clay, inca?	Q_Elab	4	6	s1-league3-game3_14
+spk1: want some ore for clay, inca? [SEP] spk1: :P	Comment	6	7	s1-league3-game3_14
+spk2: what do you need [SEP] spk3: do you have sheep yiin?	Q_Elab	5	8	s1-league3-game3_14
+spk3: do you have sheep yiin? [SEP] spk1: I do!	Question_answer_pair	8	9	s1-league3-game3_14
+spk3: i'll trad with both of you [SEP] spk3: if so	Conditional	10	11	s1-league3-game3_14
+spk3: if so [SEP] spk3: sorry, gaeil offered ore first i guess	Correction	11	12	s1-league3-game3_14
+spk3: sorry, gaeil offered ore first i guess [SEP] spk1: it's ok	Acknowledgement	12	13	s1-league3-game3_14
+spk3: sorry, gaeil offered ore first i guess [SEP] spk3: got sheep?	Q_Elab	12	14	s1-league3-game3_14
+spk3: got sheep? [SEP] spk2: i got sheep	Question_answer_pair	14	17	s1-league3-game3_14
+spk1: I have sheep too [SEP] spk1: take his trade	Contrast	15	16	s1-league3-game3_14
+spk1: I have sheep too [SEP] spk3: ok, i'll trade with you for sheep briain	Acknowledgement	15	18	s1-league3-game3_14
+spk3: ok, i'll trade with you for sheep briain [SEP] spk3: cheers	Comment	18	19	s1-league3-game3_14
+spk3: ok, i'll trade with you for sheep briain [SEP] spk1: cheers	Acknowledgement	18	20	s1-league3-game3_14
+spk1: I do! [SEP] spk3: if so	Result	9	11	s1-league3-game3_14
+spk3: do you have sheep yiin? [SEP] spk3: if so	Result	8	11	s1-league3-game3_14
+spk3: got sheep? [SEP] spk1: I have sheep too	Question_answer_pair	14	15	s1-league3-game3_14
+spk1: no prob mate [SEP] spk2: anyone got clay or wheat	Continuation	1	2	s1-league3-game3_14
+spk4: Anyone have wheat to trade? [SEP] spk1: not a bit,	Question_answer_pair	0	1	s1-league3-game3_15
+spk1: not a bit, [SEP] spk1: sorry	Comment	1	2	s1-league3-game3_15
+spk4: Anyone have wheat to trade? [SEP] spk2: no sry	Question_answer_pair	0	3	s1-league3-game3_15
+spk4: Anyone have wheat to trade? [SEP] spk3: do you have wood?	Q_Elab	0	4	s1-league3-game3_15
+spk3: do you have wood? [SEP] spk4: yep	Question_answer_pair	4	5	s1-league3-game3_15
+spk4: yep [SEP] spk3: cheers	Comment	5	6	s1-league3-game3_15
+spk3: can anyone trade ore. I have more wood to trade [SEP] spk1: do you have clay, by any chance?	Q_Elab	0	1	s1-league3-game3_16
+spk1: do you have clay, by any chance? [SEP] spk3: sorry, no	Question_answer_pair	1	2	s1-league3-game3_16
+spk3: can anyone trade ore. I have more wood to trade [SEP] spk2: i can do that kieran	Question_answer_pair	0	3	s1-league3-game3_16
+spk2: i can do that kieran [SEP] spk3: how many can you trade.	Q_Elab	3	4	s1-league3-game3_16
+spk3: how many can you trade. [SEP] spk3: 2 for 2?	Continuation	4	5	s1-league3-game3_16
+spk3: how many can you trade. [SEP] spk2: just got one, sorry	Question_answer_pair	4	6	s1-league3-game3_16
+spk2: just got one, sorry [SEP] spk3: ok cool	Acknowledgement	6	7	s1-league3-game3_16
+spk1: anyone have sheep? [SEP] spk1: I have wood and ore.	Elaboration	0	1	s1-league3-game3_17
+spk1: anyone have sheep? [SEP] spk3: nope, sorry	Question_answer_pair	0	2	s1-league3-game3_17
+spk2: yes [SEP] spk2: i have lot of sheeps	Elaboration	3	4	s1-league3-game3_17
+spk1: anyone have sheep? [SEP] spk2: yes	Question_answer_pair	0	3	s1-league3-game3_17
+spk4: yeah [SEP] spk4: can do that	Elaboration	5	6	s1-league3-game3_17
+spk1: anyone have sheep? [SEP] spk4: yeah	Question_answer_pair	0	5	s1-league3-game3_17
+spk1: ADDTIME [SEP] spk3: hallelujah	Comment	0	1	s1-league3-game3_18
+spk3: hallelujah [SEP] spk4: hehe	Comment	1	2	s1-league3-game3_18
+spk4: anyone got some ore to trade? [SEP] spk3: sorry, nope	Question_answer_pair	3	4	s1-league3-game3_18
+spk4: anyone got some ore to trade? [SEP] spk2: yes i have...	Question_answer_pair	3	5	s1-league3-game3_18
+spk4: anyone got some ore to trade? [SEP] spk2: you got clay??	Q_Elab	3	6	s1-league3-game3_18
+spk2: you got clay?? [SEP] spk2: or wheat??	Alternation	6	7	s1-league3-game3_18
+spk4: nope don't have either unfortunately, [SEP] spk4: plenty of wood though	Contrast	8	9	s1-league3-game3_18
+spk2: you got clay?? [SEP] spk4: nope don't have either unfortunately,	Question_answer_pair	6	8	s1-league3-game3_18
+spk4: nope don't have either unfortunately, [SEP] spk2: oh ok	Acknowledgement	8	10	s1-league3-game3_18
+spk2: oh ok [SEP] spk2: then nvm	Result	10	11	s1-league3-game3_18
+spk1: If you have sheep, [SEP] spk1: I can.	Conditional	13	14	s1-league3-game3_18
+spk4: Gaeilgeoir, feel like trading that ore? [SEP] spk1: If you have sheep,	Question_answer_pair	12	13	s1-league3-game3_18
+spk2: yes i have... [SEP] spk2: you got clay??	Continuation	5	6	s1-league3-game3_18
+spk4: anyone got some ore to trade? [SEP] spk4: Gaeilgeoir, feel like trading that ore?	Q_Elab	3	12	s1-league3-game3_18
+spk4: hehe [SEP] spk4: anyone got some ore to trade?	Continuation	2	3	s1-league3-game3_18
+"spk3: yeah, can do the trade [SEP] spk3: but can only see a ""reject"" button"	Contrast	3	4	s1-league3-game3_19
+spk3: yeah, can do the trade [SEP] spk2: weird	Comment	3	5	s1-league3-game3_19
+spk3: yeah, can do the trade [SEP] spk2: usually suggests one	Elaboration	3	6	s1-league3-game3_19
+spk2: usually suggests one [SEP] spk2: you doesn't have what is offered	Continuation	6	7	s1-league3-game3_19
+spk2: usually suggests one [SEP] spk1: technical error i think	Comment	6	8	s1-league3-game3_19
+spk3: yeah, can do the trade [SEP] spk3: i'll try and trade with you next turn. see if that works.	Result	3	9	s1-league3-game3_19
+spk3: i'll try and trade with you next turn. see if that works. [SEP] spk1: thank you	Acknowledgement	9	10	s1-league3-game3_19
+spk3: so was it wood you were after? [SEP] spk1: wheat that i am after	Question_answer_pair	11	12	s1-league3-game3_19
+spk1: wheat that i am after [SEP] spk1: i mean i am after wheat	Elaboration	12	13	s1-league3-game3_19
+spk3: oh, I thought you had some wheat to trade. [SEP] spk3: yeah misunderstanding :)	Elaboration	15	16	s1-league3-game3_19
+spk3: erm... how do accept a trade? [SEP] spk2: do you have wheat?	Q_Elab	0	1	s1-league3-game3_19
+spk3: erm... how do accept a trade? [SEP] spk1: ehh i am not sure as well	Parallel	0	2	s1-league3-game3_19
+spk2: do you have wheat? [SEP] spk3: yeah, can do the trade	Question_answer_pair	1	3	s1-league3-game3_19
+spk1: wheat that i am after [SEP] spk2: yeah think there's been a misunderstanding	Acknowledgement	12	14	s1-league3-game3_19
+spk1: thank you [SEP] spk3: so was it wood you were after?	Clarification_question	10	11	s1-league3-game3_19
+spk2: yeah think there's been a misunderstanding [SEP] spk3: oh, I thought you had some wheat to trade.	Acknowledgement	14	15	s1-league3-game3_19
+spk1: technical error i think [SEP] spk3: i'll try and trade with you next turn. see if that works.	Result	8	9	s1-league3-game3_19
+spk3: so was it wood you were after? [SEP] spk2: yeah think there's been a misunderstanding	Acknowledgement	11	14	s1-league3-game3_19
+spk2: yeah think there's been a misunderstanding [SEP] spk3: yeah misunderstanding :)	Acknowledgement	14	16	s1-league3-game3_19
+spk1: Can anyone spare ore? [SEP] spk3: yeah	Question_answer_pair	0	1	s1-league3-game3_20
+spk1: Can anyone spare ore? [SEP] spk1: Sorry, sheep	Correction	0	2	s1-league3-game3_20
+spk1: Can anyone spare ore? [SEP] spk2: i got ore	Question_answer_pair	0	3	s1-league3-game3_20
+spk1: Can anyone spare ore? [SEP] spk1: Anyone have sheep?	Narration	0	4	s1-league3-game3_20
+spk1: Anyone have sheep? [SEP] spk1: I can give ore or wheat	Elaboration	4	5	s1-league3-game3_20
+spk1: Anyone have sheep? [SEP] spk3: i've got sheep aswell	Question_answer_pair	4	6	s1-league3-game3_20
+spk3: i've got sheep aswell [SEP] spk1: need ore or wheat?	Q_Elab	6	7	s1-league3-game3_20
+spk1: need ore or wheat? [SEP] spk3: wheat	Question_answer_pair	7	9	s1-league3-game3_20
+spk1: need ore or wheat? [SEP] spk2: i need wheat	Question_answer_pair	7	8	s1-league3-game3_20
+spk3: wheat [SEP] spk1: no trade?	Clarification_question	9	10	s1-league3-game3_20
+spk2: i need wheat [SEP] spk1: no trade?	Clarification_question	8	10	s1-league3-game3_20
+spk2: you have the highest point [SEP] spk3: i think the resources were backwards( me getting ore) might be wrong	Contrast	11	12	s1-league3-game3_20
+spk3: i think the resources were backwards( me getting ore) might be wrong [SEP] spk1: I'll try again	Result	12	13	s1-league3-game3_20
+spk1: I'll try again [SEP] spk3: cool :)	Acknowledgement	13	14	s1-league3-game3_20
+spk1: I'll try again [SEP] spk1: I'm definitely giving wheat	Continuation	13	15	s1-league3-game3_20
+spk1: I'm definitely giving wheat [SEP] spk1: I have no sheep :)	Elaboration	15	16	s1-league3-game3_20
+spk1: no trade? [SEP] spk2: you have the highest point	Question_answer_pair	10	11	s1-league3-game3_20
+spk1: no trade? [SEP] spk3: i think the resources were backwards( me getting ore) might be wrong	Question_answer_pair	10	12	s1-league3-game3_20
+spk2: anyone got any wood? i can give clay or wheat [SEP] spk3: yep plenty	Question_answer_pair	0	1	s1-league3-game3_21
+spk2: anyone got any wood? i can give clay or wheat [SEP] spk1: i got wood	Question_answer_pair	0	2	s1-league3-game3_21
+spk3: yep plenty [SEP] spk2: would you prefer clay or wheat kieran?	Q_Elab	1	3	s1-league3-game3_21
+spk2: would you prefer clay or wheat kieran? [SEP] spk3: can give you 2 wood for one of each	Question_answer_pair	3	4	s1-league3-game3_21
+spk2: would you prefer clay or wheat kieran? [SEP] spk1: clay	Question_answer_pair	3	5	s1-league3-game3_21
+spk3: can give you 2 wood for one of each [SEP] spk2: deal kieran	Acknowledgement	4	6	s1-league3-game3_21
+spk1: clay [SEP] spk2: sorry yin	Comment	5	7	s1-league3-game3_21
+spk2: deal kieran [SEP] spk2: sorry yin	Contrast	6	7	s1-league3-game3_21
+spk2: sorry yin [SEP] spk1: no problem	Comment	7	8	s1-league3-game3_21
+spk1: anyone got clay [SEP] spk2: not any more, sorry	Question_answer_pair	0	1	s1-league3-game3_22
+spk1: anyone got clay [SEP] spk3: i have some,	Question_answer_pair	0	2	s1-league3-game3_22
+spk1: anyone got clay [SEP] spk3: do you have any ore	Q_Elab	0	3	s1-league3-game3_22
+spk3: i have some, [SEP] spk3: do you have any ore	Continuation	2	3	s1-league3-game3_22
+spk1: anyone have ore or sheep? [SEP] spk1: I can borrow wheat and wood	Elaboration	0	1	s1-league3-game3_23
+spk1: I can borrow wheat and wood [SEP] spk1: spare wheat and wood*	Correction	1	2	s1-league3-game3_23
+spk1: anyone have ore or sheep? [SEP] spk2: I've got ore, trade for wheat?	Q_Elab	0	3	s1-league3-game3_23
+spk2: I've got ore, trade for wheat? [SEP] spk1: deal	Question_answer_pair	3	4	s1-league3-game3_23
+spk1: well played [SEP] spk2: cheers, good game	Acknowledgement	0	1	s1-league3-game3_24
+spk2: cheers, good game [SEP] spk3: nice. good game	Acknowledgement	1	2	s1-league3-game3_24
+spk1: well played [SEP] spk1: talk soon	Continuation	0	3	s1-league3-game3_24
+spk1: talk soon [SEP] spk2: shall we say wednesday for the one without kieran?	Clarification_question	3	4	s1-league3-game3_24
+spk2: shall we say wednesday for the one without kieran? [SEP] spk1: sounds fine to me	Question_answer_pair	4	5	s1-league3-game3_24
+spk2: shall we say wednesday for the one without kieran? [SEP] spk1: time?	Q_Elab	4	6	s1-league3-game3_24
+spk1: time? [SEP] spk2: cool, any time's fine for me, 8 again?	Q_Elab	6	7	s1-league3-game3_24
+spk2: cool, any time's fine for me, 8 again? [SEP] spk1: yay	Question_answer_pair	7	8	s1-league3-game3_24
+spk1: yay [SEP] spk1: can't wait	Continuation	8	9	s1-league3-game3_24
+spk1: yay [SEP] spk2: cool, see you then!	Acknowledgement	8	10	s1-league3-game3_24
+spk2: anyone got clay?? [SEP] spk1: our peruvian friend	Question_answer_pair	1	2	s1-league3-game3_25
+spk1: our peruvian friend [SEP] spk3: haha	Acknowledgement	2	3	s1-league3-game3_25
+spk3: haha [SEP] spk2: what do you need	Q_Elab	3	4	s1-league3-game3_25
+spk2: what do you need [SEP] spk3: got sheep?	Q_Elab	4	6	s1-league3-game3_25
+spk3: haha [SEP] spk3: yeah i've got  a little bit of clay	Elaboration	3	5	s1-league3-game3_25
+spk3: got sheep? [SEP] spk2: yes plenty of it	Question_answer_pair	6	7	s1-league3-game3_25
+spk2: yes plenty of it [SEP] spk3: cheers	Acknowledgement	7	8	s1-league3-game3_25
+spk1: 3 MORE clay [SEP] spk2: anyone got clay??	Continuation	0	1	s1-league3-game3_25
+spk4: any one have any ore? [SEP] spk3: nope, sorry	Question_answer_pair	0	1	s1-league3-game3_26
+spk4: any one have any ore? [SEP] spk1: I have nothing at the moment :)	Question_answer_pair	0	2	s1-league3-game3_26
+spk4: any one have any ore? [SEP] spk2: i ahve	Question_answer_pair	0	3	s1-league3-game3_26
+spk2: i ahve [SEP] spk2: have	Correction	3	5	s1-league3-game3_26
+spk2: i ahve [SEP] spk4: ok	Acknowledgement	3	6	s1-league3-game3_26
+spk2: i ahve [SEP] spk2: but i need wheat	Contrast	3	4	s1-league3-game3_26
+spk3: so I'd like to build a road... [SEP] spk3: where do i press?	Q_Elab	0	1	pilot02_1
+spk3: where do i press? [SEP] spk1: to build?	Clarification_question	1	2	pilot02_1
+"spk3: where do i press? [SEP] spk1: at the bottom next to ""road"" etc."	Question_answer_pair	1	3	pilot02_1
+spk2: if you have 1 wood, 1 clay,  [SEP] spk2: it is at the bottom of the screen	Conditional	4	5	pilot02_1
+spk3: where do i press? [SEP] spk2: if you have 1 wood, 1 clay, 	Question_answer_pair	1	4	pilot02_1
+spk2: if you have 1 wood, 1 clay,  [SEP] spk3: okay, I see...	Acknowledgement	4	6	pilot02_1
+spk3: okay, I see... [SEP] spk3: anyone wants an ore?	Continuation	6	7	pilot02_1
+spk3: anyone wants an ore? [SEP] spk2: nope	Question_answer_pair	7	8	pilot02_1
+spk3: anyone wants an ore? [SEP] spk1: no	Question_answer_pair	7	9	pilot02_1
+spk3: anyone wants an ore? [SEP] spk3: for a wood	Elaboration	7	10	pilot02_1
+spk1: you need 10 victory points to win.  [SEP] spk1: a settlement gives you 1 VP, 	Continuation	11	12	pilot02_1
+spk1: a settlement gives you 1 VP,  [SEP] spk1: a city gives you 2 VP	Continuation	12	13	pilot02_1
+spk1: you need 10 victory points to win.  [SEP] spk3: okay, thanks	Acknowledgement	11	14	pilot02_1
+spk3: so I'd like to build a road... [SEP] spk1: you need 10 victory points to win. 	Background	0	11	pilot02_1
+spk1: does someone have clay? [SEP] spk2: none	Question_answer_pair	0	1	pilot02_2
+spk1: does someone have clay? [SEP] spk3: yes	Question_answer_pair	0	2	pilot02_2
+spk3: yes [SEP] spk1: what do you want for it?	Q_Elab	2	3	pilot02_2
+spk1: what do you want for it? [SEP] spk3: hmm, not sure...	Question_answer_pair	3	4	pilot02_2
+spk3: I'd like wood,  [SEP] spk3: but I need clay too	Contrast	5	6	pilot02_2
+spk1: what do you want for it? [SEP] spk3: I'd like wood, 	Question_answer_pair	3	5	pilot02_2
+spk3: I'd like wood,  [SEP] spk1: i can give you wood!	Question_answer_pair	5	7	pilot02_2
+spk1: i can give you wood! [SEP] spk3: I can echange ore for wood though	Correction	7	8	pilot02_2
+spk3: I can echange ore for wood though [SEP] spk1: give or want ore?	Clarification_question	8	9	pilot02_2
+spk1: give or want ore? [SEP] spk3: give ore, receive wood	Question_answer_pair	9	10	pilot02_2
+spk3: I can echange ore for wood though [SEP] spk1: i'm in	Acknowledgement	8	11	pilot02_2
+spk1: i'm in [SEP] spk3: great	Acknowledgement	11	12	pilot02_2
+spk1: i'm in [SEP] spk1: oh, sorry. 	Correction	11	13	pilot02_2
+spk1: oh, sorry.  [SEP] spk1: i thought you were talking about yourself when you said give ore	Explanation	13	14	pilot02_2
+spk3: give ore, receive wood [SEP] spk3: if you can give me wood	Elaboration	10	17	pilot02_2
+spk1: i thought you were talking about yourself when you said give ore [SEP] spk1: ? i  am confused	Elaboration	14	16	pilot02_2
+spk3: if you can give me wood [SEP] spk1: ok. 	Acknowledgement	17	18	pilot02_2
+spk1: ok.  [SEP] spk1: i just got the speech bubble message wrong...	Explanation	18	19	pilot02_2
+spk3: if you can give me wood [SEP] spk1: done	Acknowledgement	17	20	pilot02_2
+spk1: done [SEP] spk3: thanks	Acknowledgement	20	21	pilot02_2
+spk3: I mean I can offer ore [SEP] spk3: if you can give me wood	Conditional	15	17	pilot02_2
+spk1: ? i  am confused [SEP] spk1: i just got the speech bubble message wrong...	Explanation	16	19	pilot02_2
+spk3: give ore, receive wood [SEP] spk1: i'm in	Acknowledgement	10	11	pilot02_2
+spk2: i can exchange wood [SEP] spk2: one wood though	Elaboration	0	1	pilot02_3
+spk2: i can exchange wood [SEP] spk1: no thx	Question_answer_pair	0	2	pilot02_3
+spk1: no thx [SEP] spk2: ok	Acknowledgement	2	3	pilot02_3
+spk3: anyone would give me clay? [SEP] spk3: I have one wood to exchange	Elaboration	0	3	pilot02_4
+spk3: any takers? [SEP] spk1: no	Question_answer_pair	4	5	pilot02_4
+spk3: I have one wood to exchange [SEP] spk3: for sheep, wheat or clary	Elaboration	3	6	pilot02_4
+spk3: anyone would give me clay? [SEP] spk2: none here	Question_answer_pair	0	1	pilot02_4
+spk3: anyone would give me clay? [SEP] spk1: no	Question_answer_pair	0	2	pilot02_4
+spk3: I have one wood to exchange [SEP] spk3: any takers?	Q_Elab	3	4	pilot02_4
+spk1: have none [SEP] spk2: kk	Acknowledgement	8	9	pilot02_4
+spk2: can I buy a sheep for two ore? [SEP] spk3: no sheep	Question_answer_pair	7	10	pilot02_4
+spk2: can I buy a sheep for two ore? [SEP] spk1: have none	Question_answer_pair	7	8	pilot02_4
+spk3: I have one wood to exchange [SEP] spk2: can I buy a sheep for two ore?	Q_Elab	3	7	pilot02_4
+spk3: where do i see what i rolled? [SEP] spk1: on the arrow	Question_answer_pair	0	1	pilot02_5
+spk3: so if it had been 7  [SEP] spk3: i could move the robber	Conditional	3	4	pilot02_5
+spk1: on the arrow [SEP] spk3: ok, 	Comment	1	2	pilot02_5
+spk3: so if it had been 7  [SEP] spk3: and can i do other things depending on the numbers?	Continuation	3	5	pilot02_5
+spk1: yup [SEP] spk3: ooops, 	Acknowledgement	6	7	pilot02_5
+spk3: ooops,  [SEP] spk3: I didn't know	Elaboration	7	8	pilot02_5
+spk1: yup [SEP] spk3: sorry, 	Q_Elab	6	9	pilot02_5
+spk3: so if it had been 7  [SEP] spk1: no every other number just produces ressources	Question_answer_pair	3	11	pilot02_5
+spk3: so if it had been 7  [SEP] spk1: yup	Question_answer_pair	3	6	pilot02_5
+spk1: no every other number just produces ressources [SEP] spk2: robber is the only exception	Continuation	11	12	pilot02_5
+spk1: no every other number just produces ressources [SEP] spk3: ok, 	Acknowledgement	11	13	pilot02_5
+spk3: ok,  [SEP] spk3: so i don't need to play special actions	Result	13	14	pilot02_5
+spk3: so i don't need to play special actions [SEP] spk3: anyone would like to receive a wood for an ore?	Continuation	14	15	pilot02_5
+spk3: so i don't need to play special actions [SEP] spk1: no,	Acknowledgement	14	16	pilot02_5
+spk1: no, [SEP] spk1: dev.  cards are the only other special action	Elaboration	16	17	pilot02_5
+spk3: anyone would like to receive a wood for an ore? [SEP] spk1: no	Question_answer_pair	15	18	pilot02_5
+spk3: anyone would like to receive a wood for an ore? [SEP] spk2: yes please	Question_answer_pair	15	19	pilot02_5
+spk1: no [SEP] spk1: i will take anyone's sheep though	Contrast	18	20	pilot02_5
+spk1: i will take anyone's sheep though [SEP] spk3: don't have a sheep	Contrast	20	21	pilot02_5
+spk1: i will take anyone's sheep though [SEP] spk2: none here either	Contrast	20	22	pilot02_5
+spk3: anyone would like to receive a wood for an ore? [SEP] spk3: anyone wants wood?	Continuation	15	23	pilot02_5
+spk3: anyone wants wood? [SEP] spk2: n	Question_answer_pair	23	24	pilot02_5
+spk3: anyone wants wood? [SEP] spk1: 2 wood?	Q_Elab	23	25	pilot02_5
+spk1: 2 wood? [SEP] spk3: one wood for clay	Question_answer_pair	25	26	pilot02_5
+spk3: anyone wants wood? [SEP] spk1: hmm, no sorry	Question_answer_pair	23	27	pilot02_5
+spk3: one wood for clay [SEP] spk3: or ore	Alternation	26	28	pilot02_5
+spk1: hmm, no sorry [SEP] spk1: i will only take two wood, 	Elaboration	27	29	pilot02_5
+spk1: i will only take two wood,  [SEP] spk1: and give 1 ore	Continuation	29	30	pilot02_5
+spk1: i will only take two wood,  [SEP] spk3: no 	Question_answer_pair	29	31	pilot02_5
+spk3: no  [SEP] spk3: sorry	Comment	31	32	pilot02_5
+spk3: ok,  [SEP] spk3: so if it had been 7 	Q_Elab	2	3	pilot02_5
+spk3: sorry,  [SEP] spk3: which things?	Continuation	9	10	pilot02_5
+spk3: don't have a sheep [SEP] spk2: none here either	Parallel	21	22	pilot02_5
+spk3: sorry,  [SEP] spk1: no every other number just produces ressources	Question_answer_pair	9	11	pilot02_5
+spk3: one wood for clay [SEP] spk1: hmm, no sorry	Question_answer_pair	26	27	pilot02_5
+spk3: anyone would like to give me an ore? [SEP] spk1: cant	Question_answer_pair	0	1	pilot02_6
+spk3: anyone would like to give me an ore? [SEP] spk2: what for?	Q_Elab	0	2	pilot02_6
+spk2: what for? [SEP] spk3: wood?	Q_Elab	2	3	pilot02_6
+spk3: wood? [SEP] spk2: no 	Question_answer_pair	3	4	pilot02_6
+spk2: no  [SEP] spk2: thanks	Comment	4	5	pilot02_6
+spk3: anyone can give me ore?  [SEP] spk3: (for wood)	Elaboration	7	8	pilot02_6
+spk3: anyone can give me ore?  [SEP] spk2: no	Question_answer_pair	7	9	pilot02_6
+spk3: anyone would like to give me an ore? [SEP] spk2: no 	Question_answer_pair	0	4	pilot02_6
+spk1: well? [SEP] spk3: anyone can give me ore? 	Result	6	7	pilot02_6
+spk3: anyone would like to give me an ore? [SEP] spk1: well?	Clarification_question	0	6	pilot02_6
+spk4: so if i want to put a settlement down [SEP] spk3: on one of your roads	Question_answer_pair	0	2	pilot02_7
+spk4: so if i want to put a settlement down [SEP] spk2: on any corner that has distance at least two to all other settlements	Question_answer_pair	0	3	pilot02_7
+spk2: on any corner that has distance at least two to all other settlements [SEP] spk2: connected yes	Continuation	3	4	pilot02_7
+spk3: on one of your roads [SEP] spk4: thx	Acknowledgement	2	5	pilot02_7
+spk2: on any corner that has distance at least two to all other settlements [SEP] spk4: thx	Acknowledgement	3	5	pilot02_7
+spk4: thx [SEP] spk4: well done	Comment	5	6	pilot02_7
+spk2: thanks for playing [SEP] spk3: gg	Comment	8	9	pilot02_7
+spk2: yiu [SEP] spk2: yup	Correction	10	11	pilot02_7
+spk3: gg [SEP] spk2: yiu	Acknowledgement	9	10	pilot02_7
+spk1: Please remember to send me your questionnaires. [SEP] spk3: ok	Acknowledgement	14	16	pilot02_7
+spk1: Please remember to send me your questionnaires. [SEP] spk4: ok	Acknowledgement	14	17	pilot02_7
+spk4: ok [SEP] spk4: bye then	Continuation	17	18	pilot02_7
+spk1: I'm in IF 3.24. [SEP] spk4: ok, I'll come by	Acknowledgement	21	24	pilot02_7
+spk1: For your  5 you'll have to sign a receipt. [SEP] spk3: ok, thanks	Acknowledgement	19	25	pilot02_7
+spk4: well done [SEP] spk3: 3 knights?	Clarification_question	6	7	pilot02_7
+spk4: so if i want to put a settlement down [SEP] spk4: where can i do so?	Conditional	0	1	pilot02_7
+spk4: well done [SEP] spk2: thanks for playing	Acknowledgement	6	8	pilot02_7
+spk1: Please remember to send me your questionnaires. [SEP] spk2: k	Acknowledgement	14	15	pilot02_7
+spk1: For your  5 you'll have to sign a receipt. [SEP] spk4: ok	Acknowledgement	19	20	pilot02_7
+spk2: thanks for playing [SEP] spk1: Wow, that was fast.	Comment	8	12	pilot02_7
+spk3: gg [SEP] spk1: Wow, that was fast.	Comment	9	12	pilot02_7
+spk4: well done [SEP] spk1: Wow, that was fast.	Comment	6	12	pilot02_7
+spk2: thanks for playing [SEP] spk1: Well done.	Comment	8	13	pilot02_7
+spk1: Well done. [SEP] spk1: Please remember to send me your questionnaires.	Continuation	13	14	pilot02_7
+spk3: gg [SEP] spk1: Well done.	Comment	9	13	pilot02_7
+spk4: well done [SEP] spk1: Well done.	Comment	6	13	pilot02_7
+spk1: Please remember to send me your questionnaires. [SEP] spk1: For your  5 you'll have to sign a receipt.	Continuation	14	19	pilot02_7
+spk2: k [SEP] spk4: bye then	Comment	15	18	pilot02_7
+spk3: ok [SEP] spk4: bye then	Comment	16	18	pilot02_7
+spk1: I'm in IF 3.24. [SEP] spk1: Should be there most of the time this week.	Elaboration	21	22	pilot02_7
+spk1: For your  5 you'll have to sign a receipt. [SEP] spk1: I'm in IF 3.24.	Continuation	19	21	pilot02_7
+spk1: I'm in IF 3.24. [SEP] spk1: Thanks again!	Comment	21	23	pilot02_7
+spk1: when we actually want to exchange... [SEP] spk2: register a trade'	Elaboration	2	3	pilot02_8
+spk3: okay,  [SEP] spk3: let's do an exchange	Result	5	6	pilot02_8
+spk3: let's do an exchange [SEP] spk1: what kind?	Elaboration	6	7	pilot02_8
+spk1: what kind? [SEP] spk3: wood for wheat	Question_answer_pair	7	8	pilot02_8
+spk3: wood for wheat [SEP] spk2: which do you want?	Clarification_question	8	9	pilot02_8
+spk2: which do you want? [SEP] spk1: already traded, tom	Correction	9	11	pilot02_8
+spk3: wood for wheat [SEP] spk1: yup i saw it	Acknowledgement	8	10	pilot02_8
+spk1: already traded, tom [SEP] spk2: ok	Acknowledgement	11	12	pilot02_8
+spk1: yup i saw it [SEP] spk3: thanks	Acknowledgement	10	13	pilot02_8
+spk3: thanks [SEP] spk3: what else can I do during the turn? 	Continuation	13	14	pilot02_8
+spk3: what else can I do during the turn?  [SEP] spk3: (i am new to this)	Explanation	14	15	pilot02_8
+spk3: what else can I do during the turn?  [SEP] spk1: build,	Question_answer_pair	14	16	pilot02_8
+spk1: build, [SEP] spk1: trade,	Narration	16	17	pilot02_8
+"spk1: trade, [SEP] spk1: ""done"""	Narration	17	18	pilot02_8
+"spk1: when we actually want to exchange... [SEP] spk1: we click ""register a trade"	Conditional	2	4	pilot02_8
+spk1: first we chat about it [SEP] spk1: when we actually want to exchange...	Narration	1	2	pilot02_8
+spk3: how do we do an exchange? [SEP] spk1: first we chat about it	Question_answer_pair	0	1	pilot02_8
+spk1: first we chat about it [SEP] spk3: okay, 	Acknowledgement	1	5	pilot02_8
+spk2: anyone want wood? [SEP] spk2: sorry clay	Correction	0	1	pilot02_9
+spk2: anyone want wood? [SEP] spk1: no	Question_answer_pair	0	2	pilot02_9
+spk2: so if I build a road  [SEP] spk2: do i get the resources next to it?	Conditional	0	1	pilot02_10
+spk2: so if I build a road  [SEP] spk1: no, you need a settlement	Question_answer_pair	0	2	pilot02_10
+spk1: no, you need a settlement [SEP] spk1: roads lead to settlements	Continuation	2	3	pilot02_10
+spk1: roads lead to settlements [SEP] spk1: all settlements must have a min distance of 2	Continuation	3	4	pilot02_10
+spk1: no, you need a settlement [SEP] spk2: okay	Acknowledgement	2	5	pilot02_10
+spk3: i need clay [SEP] spk3: I can give wheat	Continuation	0	1	pilot02_11
+spk3: i need clay [SEP] spk1: na	Question_answer_pair	0	2	pilot02_11
+spk3: i need clay [SEP] spk2: sorry nope	Question_answer_pair	0	3	pilot02_11
+spk3: i need clay [SEP] spk3: can someone give me a sheep?	Continuation	0	4	pilot02_11
+spk3: can someone give me a sheep? [SEP] spk1: nope	Question_answer_pair	4	5	pilot02_11
+spk3: can someone give me a sheep? [SEP] spk2: n	Question_answer_pair	4	6	pilot02_11
+spk2: n [SEP] spk1: there is just no market for sheep...	Explanation	6	7	pilot02_11
+spk1: nope [SEP] spk1: there is just no market for sheep...	Explanation	5	7	pilot02_11
+spk2: no  [SEP] spk2: thanks	Comment	1	2	pilot02_12
+spk1: does anyone need ore or wheat? [SEP] spk2: no 	Question_answer_pair	0	1	pilot02_12
+spk1: does anyone need ore or wheat? [SEP] spk3: wheat	Question_answer_pair	0	3	pilot02_12
+spk1: does anyone need ore or wheat? [SEP] spk1: can you give me sheep or wood?	Q_Elab	0	4	pilot02_12
+spk1: can you give me sheep or wood? [SEP] spk3: I can give you one wood	Question_answer_pair	4	5	pilot02_12
+spk3: I can give you one wood [SEP] spk1: k	Acknowledgement	5	6	pilot02_12
+spk3: anyone for ore? [SEP] spk3: I'd like clay	Elaboration	0	1	pilot02_13
+spk3: I'd like clay [SEP] spk2: sorry	Question_answer_pair	1	2	pilot02_13
+spk3: I'd like clay [SEP] spk1: sry	Question_answer_pair	1	3	pilot02_13
+spk3: I'd like clay [SEP] spk3: or sheep	Alternation	1	4	pilot02_13
+spk3: or sheep [SEP] spk1: nope	Question_answer_pair	4	5	pilot02_13
+spk3: or sheep [SEP] spk2: can't	Question_answer_pair	4	6	pilot02_13
+spk2: for anything [SEP] spk1: wheat?	Clarification_question	8	9	pilot02_13
+spk1: wheat? [SEP] spk2: 3 ore for a wheat?	Q_Elab	9	10	pilot02_13
+spk2: 3 ore for a wheat? [SEP] spk3: ok	Question_answer_pair	10	11	pilot02_13
+spk3: ok [SEP] spk1: ^^	Comment	11	12	pilot02_13
+spk1: ^^ [SEP] spk3: sorry, 	Comment	12	13	pilot02_13
+spk3: sorry,  [SEP] spk3: misunderstood	Explanation	13	14	pilot02_13
+spk2: 3 ore for a wheat? [SEP] spk1: i will do it	Question_answer_pair	10	16	pilot02_13
+spk3: sorry,  [SEP] spk2: ok	Acknowledgement	13	15	pilot02_13
+spk1: i will do it [SEP] spk2: thaks	Acknowledgement	16	17	pilot02_13
+spk1: i will do it [SEP] spk1: *ADDTIME*	Continuation	16	18	pilot02_13
+spk2: have plenty of ore [SEP] spk2: for anything	Elaboration	7	8	pilot02_13
+spk2: can't [SEP] spk2: have plenty of ore	Elaboration	6	7	pilot02_13
+spk1: thomas, can you continue from where you left the game? [SEP] spk2: yes	Question_answer_pair	4	5	pilot02_14
+spk3: i can offer ore for sheep or clay [SEP] spk3: or wheet for the same	Alternation	2	3	pilot02_14
+spk3: so to move the robber  [SEP] spk3: i can offer ore for sheep or clay	Continuation	0	2	pilot02_14
+spk3: i can offer ore for sheep or clay [SEP] spk1: thomas, can you continue from where you left the game?	Continuation	2	4	pilot02_14
+spk2: yes [SEP] spk2: sorry about that	Comment	5	6	pilot02_14
+spk2: sorry about that [SEP] spk2: but it's working now	Contrast	6	7	pilot02_14
+spk2: but it's working now [SEP] spk3: np	Comment	7	8	pilot02_14
+spk3: i can offer ore for sheep or clay [SEP] spk3: anyone for ore or what?	Continuation	2	9	pilot02_14
+spk3: anyone for ore or what? [SEP] spk1: no	Question_answer_pair	9	10	pilot02_14
+spk3: anyone for ore or what? [SEP] spk2: i have ore	Question_answer_pair	9	11	pilot02_14
+spk2: i have ore [SEP] spk2: I need sheep	Contrast	11	12	pilot02_14
+spk2: I need sheep [SEP] spk2: or clay	Alternation	12	13	pilot02_14
+spk3: anyone for ore or what? [SEP] spk3: I mean I have those to offer	Elaboration	9	14	pilot02_14
+spk3: I mean I have those to offer [SEP] spk3: I need sheep	Continuation	14	15	pilot02_14
+spk3: I need sheep [SEP] spk3: or clary	Alternation	15	16	pilot02_14
+spk3: I need sheep [SEP] spk3: clay	Correction	15	19	pilot02_14
+spk2: no  [SEP] spk2: thanks	Comment	17	18	pilot02_14
+spk2: no  [SEP] spk3: then anyone wants a wood for an ore?	Result	17	20	pilot02_14
+spk3: then anyone wants a wood for an ore? [SEP] spk1: no	Question_answer_pair	20	21	pilot02_14
+spk1: no [SEP] spk3: okay	Acknowledgement	21	22	pilot02_14
+spk3: so to move the robber  [SEP] spk3: i need to roll the dice?	Conditional	0	1	pilot02_14
+spk3: anyone for ore or what? [SEP] spk2: no 	Question_answer_pair	9	17	pilot02_14
+spk3: anyone for ore or what? [SEP] spk3: then anyone wants a wood for an ore?	Narration	9	20	pilot02_14
+spk1: can i get a sheep or a wheat?  [SEP] spk1: i have too much wood	Elaboration	0	1	pilot02_15
+spk1: can i get a sheep or a wheat?  [SEP] spk2: n	Question_answer_pair	0	2	pilot02_15
+spk1: can i get a sheep or a wheat?  [SEP] spk3: I can give you a wheat	Question_answer_pair	0	3	pilot02_15
+spk3: I can give you a wheat [SEP] spk1: good	Acknowledgement	3	4	pilot02_15
+spk1: good [SEP] spk3: thx	Acknowledgement	4	5	pilot02_15
+spk2: would anyone like wheat? [SEP] spk1: yes please	Question_answer_pair	0	1	pilot02_16
+spk1: I can give an ore [SEP] spk1: or a clay	Alternation	3	4	pilot02_16
+spk2: I need clay or ore [SEP] spk2: or a sheep!	Alternation	2	5	pilot02_16
+spk2: or a sheep! [SEP] spk1: impossible...	Question_answer_pair	5	6	pilot02_16
+spk1: impossible... [SEP] spk2: let's do the clay	Result	6	7	pilot02_16
+spk2: let's do the clay [SEP] spk1: k	Acknowledgement	7	8	pilot02_16
+spk2: would you like one more what for an ore? [SEP] spk1: one more wheat?	Q_Elab	9	10	pilot02_16
+spk1: one more wheat? [SEP] spk2: one wheat	Question_answer_pair	10	11	pilot02_16
+spk2: one wheat [SEP] spk1: kk	Acknowledgement	11	12	pilot02_16
+spk2: let's do the clay [SEP] spk2: would you like one more what for an ore?	Continuation	7	9	pilot02_16
+spk2: would anyone like wheat? [SEP] spk2: I need clay or ore	Elaboration	0	2	pilot02_16
+spk2: I need clay or ore [SEP] spk2: let's do the clay	Result	2	7	pilot02_16
+spk2: I need clay or ore [SEP] spk1: I can give an ore	Question_answer_pair	2	3	pilot02_16
+spk3: anyone can give me a sheep? [SEP] spk3: for ore	Elaboration	0	1	pilot02_17
+spk3: anyone can give me a sheep? [SEP] spk1: if you give me wood	Question_answer_pair	0	2	pilot02_17
+spk3: anyone can give me a sheep? [SEP] spk2: not me	Question_answer_pair	0	3	pilot02_17
+spk1: if you give me wood [SEP] spk3: for two ore?	Q_Elab	2	4	pilot02_17
+spk3: for two ore? [SEP] spk1: k	Question_answer_pair	4	5	pilot02_17
+spk1: hi markus.  [SEP] spk1: how many people are we waiting for?	Continuation	0	1	pilot02_18
+spk1: how many people are we waiting for? [SEP] spk2: think it's 1 more	Question_answer_pair	1	2	pilot02_18
+spk2: think it's 1 more [SEP] spk1: ok	Acknowledgement	2	3	pilot02_18
+spk3: seems there's a hickup logging into the game ... [SEP] spk2: that's ok, I not on a schedule	Acknowledgement	5	6	pilot02_18
+spk2: that's ok, I not on a schedule [SEP] spk2: *I'm	Correction	6	7	pilot02_18
+spk3: I guess you two had no problems joining the game? [SEP] spk1: nope	Acknowledgement	8	9	pilot02_18
+spk3: So, one of you can now start the game. [SEP] spk1: the arrow is pointing at me 	Comment	11	13	pilot02_18
+spk1: the arrow is pointing at me  [SEP] spk1: but i cant press roll	Contrast	13	14	pilot02_18
+spk1: but i cant press roll [SEP] spk1: oh sorry	Comment	14	15	pilot02_18
+spk1: the arrow is pointing at me  [SEP] spk2: u can place a settlement	Explanation	13	16	pilot02_18
+spk2: u can place a settlement [SEP] spk2: first	Continuation	16	17	pilot02_18
+spk2: first [SEP] spk2: u roll later	Narration	17	18	pilot02_18
+spk2: think it's 1 more [SEP] spk3: yes, one more	Acknowledgement	2	4	pilot02_18
+spk3: yes, one more [SEP] spk3: seems there's a hickup logging into the game ...	Comment	4	5	pilot02_18
+spk3: seems there's a hickup logging into the game ... [SEP] spk3: I guess you two had no problems joining the game?	Clarification_question	5	8	pilot02_18
+spk1: nope [SEP] spk3: Ah great!	Acknowledgement	9	10	pilot02_18
+spk3: Ah great! [SEP] spk3: So, one of you can now start the game.	Result	10	11	pilot02_18
+spk3: So, one of you can now start the game. [SEP] spk3: Have fun!	Continuation	11	12	pilot02_18
+spk1: i am offering a wheat for wood or clay [SEP] spk2: no 	Question_answer_pair	0	1	pilot02_19
+spk2: no  [SEP] spk2: thanks	Comment	1	2	pilot02_19
+spk2: 2 ore for a wheat? [SEP] spk1: are you givinig 2 ore?	Clarification_question	0	1	pilot02_20
+spk1: are you givinig 2 ore? [SEP] spk1: then yes	Conditional	1	2	pilot02_20
+spk1: are you givinig 2 ore? [SEP] spk2: yes	Question_answer_pair	1	3	pilot02_20
+spk2: yes [SEP] spk1: k	Acknowledgement	3	4	pilot02_20
+spk2: 2 ore for a wheat? [SEP] spk2: can I buy wood for 1 ore?	Continuation	0	5	pilot02_20
+spk2: can I buy wood for 1 ore? [SEP] spk1: hav none	Question_answer_pair	5	6	pilot02_20
+spk2: can I buy wood for 1 ore? [SEP] spk3: no 	Question_answer_pair	5	7	pilot02_20
+spk3: no  [SEP] spk3: sorry	Comment	7	8	pilot02_20
+spk3: no  [SEP] spk2: kk	Acknowledgement	7	9	pilot02_20
+spk1: hav none [SEP] spk2: kk	Acknowledgement	6	9	pilot02_20
+spk1: theres your wood [SEP] spk1: does someone need clay?	Continuation	0	1	pilot02_21
+spk1: does someone need clay? [SEP] spk1: i will take sheep or ore	Elaboration	1	2	pilot02_21
+spk1: does someone need clay? [SEP] spk2: nope	Question_answer_pair	1	4	pilot02_21
+spk3: I can trade wood [SEP] spk3: for clay	Elaboration	3	5	pilot02_21
+spk3: for clay [SEP] spk3: or ore	Alternation	5	7	pilot02_21
+spk3: for clay [SEP] spk1: k	Question_answer_pair	5	6	pilot02_21
+spk1: does someone need clay? [SEP] spk3: I can trade wood	Question_answer_pair	1	3	pilot02_21
+spk2: can I buy a sheep? [SEP] spk1: none	Question_answer_pair	0	1	pilot02_22
+spk2: can I buy a sheep? [SEP] spk3: no sorry	Question_answer_pair	0	2	pilot02_22
+spk3: no sorry [SEP] spk2: ok	Acknowledgement	2	3	pilot02_22
+spk1: none [SEP] spk2: ok	Acknowledgement	1	3	pilot02_22
+spk1: i've got too much wheat! [SEP] spk2: sheep again anyone?	Continuation	0	1	pilot02_23
+spk2: sheep again anyone? [SEP] spk2: or clay	Alternation	1	2	pilot02_23
+spk2: sheep again anyone? [SEP] spk1: no	Question_answer_pair	1	3	pilot02_23
+spk2: sheep again anyone? [SEP] spk1: n	Question_answer_pair	1	4	pilot02_23
+spk2: sheep again anyone? [SEP] spk3: no	Question_answer_pair	1	5	pilot02_23
+spk1: no [SEP] spk1: n	Parallel	3	4	pilot02_23
+spk1: n [SEP] spk3: no	Parallel	4	5	pilot02_23
+spk3: is the robber robbing me? [SEP] spk3: can I move him?	Continuation	0	1	pilot02_24
+spk3: can I move him? [SEP] spk2: if you roll a 7	Question_answer_pair	1	2	pilot02_24
+spk3: is the robber robbing me? [SEP] spk1: the robber prevents you from getting that stuff while he's there	Question_answer_pair	0	3	pilot02_24
+spk1: the robber prevents you from getting that stuff while he's there [SEP] spk1: can someone give me an ore??	Continuation	3	4	pilot02_24
+spk1: can someone give me an ore?? [SEP] spk3: what for?	Q_Elab	4	5	pilot02_24
+spk3: what for? [SEP] spk1: wheat or wood	Question_answer_pair	5	6	pilot02_24
+spk2: sure [SEP] spk1: which?	Q_Elab	7	8	pilot02_24
+spk1: can someone give me an ore?? [SEP] spk2: sure	Question_answer_pair	4	7	pilot02_24
+spk1: wheat or wood [SEP] spk3: how about sheep or clar?	Q_Elab	6	9	pilot02_24
+spk1: which? [SEP] spk2: wheat please	Question_answer_pair	8	10	pilot02_24
+spk2: wheat please [SEP] spk1: k	Acknowledgement	10	11	pilot02_24
+spk1: k [SEP] spk2: sorry 	Correction	11	12	pilot02_24
+spk2: sorry  [SEP] spk2: retry	Continuation	12	13	pilot02_24
+spk2: retry [SEP] spk2: couldn't see it	Explanation	13	14	pilot02_24
+spk1: if you move another window on top of the speech bubble  [SEP] spk1: you will see it	Conditional	15	16	pilot02_24
+spk2: couldn't see it [SEP] spk1: if you move another window on top of the speech bubble 	Comment	14	15	pilot02_24
+"spk1: if you move another window on top of the speech bubble  [SEP] spk1: like ""whiping"" over it"	Explanation	15	17	pilot02_24
+spk1: if you move another window on top of the speech bubble  [SEP] spk2: thanks	Acknowledgement	15	18	pilot02_24
+spk1: wheat or wood [SEP] spk1: which?	Q_Elab	6	8	pilot02_24
+spk2: hi! [SEP] spk3: hello, shall we just start?	Continuation	1	2	s2-leagueM-game4_1
+spk3: hello, shall we just start? [SEP] spk1: Hello	Acknowledgement	2	3	s2-leagueM-game4_1
+spk2: hi! [SEP] spk1: Hello	Acknowledgement	1	3	s2-leagueM-game4_1
+spk3: hello, shall we just start? [SEP] spk1: Indeed, sounded like LJ wasn't playing	Question_answer_pair	2	4	s2-leagueM-game4_1
+spk1: Indeed, sounded like LJ wasn't playing [SEP] spk3: ok,	Acknowledgement	4	5	s2-leagueM-game4_1
+spk3: ok, [SEP] spk3: good luck guys!	Continuation	5	6	s2-leagueM-game4_1
+spk3: good luck guys! [SEP] spk1: And to you!	Continuation	6	7	s2-leagueM-game4_1
+spk3: hey [SEP] spk2: hi!	Acknowledgement	0	1	s2-leagueM-game4_1
+spk2: does anyone have spare wood? [SEP] spk2: i could give ore or wheat	Elaboration	0	1	s2-leagueM-game4_2
+spk2: does anyone have spare wood? [SEP] spk1: wood for wheat?	Q_Elab	0	2	s2-leagueM-game4_2
+spk1: wood for wheat? [SEP] spk1: 1 for 1	Elaboration	2	3	s2-leagueM-game4_2
+spk1: wood for wheat? [SEP] spk2: sounds good	Question_answer_pair	2	4	s2-leagueM-game4_2
+spk2: sounds good [SEP] spk2: cheers	Comment	4	5	s2-leagueM-game4_2
+spk2: cheers [SEP] spk1: :)	Comment	5	6	s2-leagueM-game4_2
+spk2: fair enough, [SEP] spk2: early days	Explanation	1	2	s2-leagueM-game4_3
+spk1: i'd try to trade but there are too many different things i need :/ [SEP] spk2: fair enough,	Comment	0	1	s2-leagueM-game4_3
+spk1: Does anyone have clay? [SEP] spk3: afraid not	Question_answer_pair	0	1	s2-leagueM-game4_4
+spk1: Does anyone have clay? [SEP] spk2: nope	Question_answer_pair	0	2	s2-leagueM-game4_4
+spk2: anyone got sheep? [SEP] spk2: can give wheat or wood	Elaboration	0	1	s2-leagueM-game4_5
+spk2: anyone got sheep? [SEP] spk1: nope	Question_answer_pair	0	2	s2-leagueM-game4_5
+spk1: too many 8s... [SEP] spk2: agreed	Acknowledgement	0	1	s2-leagueM-game4_6
+spk2: any chance of a sheep AND a wheat? [SEP] spk2: i can offer ores	Elaboration	0	1	s2-leagueM-game4_7
+spk2: any chance of a sheep AND a wheat? [SEP] spk3: i've got wheat but no sheep i'm afraid	Question_answer_pair	0	2	s2-leagueM-game4_7
+spk2: any chance of a sheep AND a wheat? [SEP] spk1: i have no sheep, and only one wheat which I need	Question_answer_pair	0	3	s2-leagueM-game4_7
+spk3: i've got wheat but no sheep i'm afraid [SEP] spk2: oh well	Acknowledgement	2	4	s2-leagueM-game4_7
+spk1: i have no sheep, and only one wheat which I need [SEP] spk2: oh well	Acknowledgement	3	4	s2-leagueM-game4_7
+spk2: any sheep and wheat now? [SEP] spk3: still no sheep,	Question_answer_pair	0	1	s2-leagueM-game4_8
+spk3: still no sheep, [SEP] spk3: sorry	Comment	1	2	s2-leagueM-game4_8
+spk2: any sheep and wheat now? [SEP] spk1: none to spare, sadly	Question_answer_pair	0	3	s2-leagueM-game4_8
+spk2: now i need a wheat OR a sheep [SEP] spk2: i can offer ore or wood	Elaboration	0	1	s2-leagueM-game4_9
+spk2: now i need a wheat OR a sheep [SEP] spk3: ore for wheat?	Q_Elab	0	2	s2-leagueM-game4_9
+spk3: ore for wheat? [SEP] spk2: sure	Question_answer_pair	2	3	s2-leagueM-game4_9
+spk2: now i need a wheat OR a sheep [SEP] spk1: I'm in same situation as last time,	Question_answer_pair	0	4	s2-leagueM-game4_9
+spk1: I'm in same situation as last time, [SEP] spk1: need what I have ...	Elaboration	4	5	s2-leagueM-game4_9
+spk2: i can give a sheep or wood for a wheat. [SEP] spk2: any takers?	Q_Elab	0	1	s2-leagueM-game4_10
+spk2: i can give a sheep or wood for a wheat. [SEP] spk3: sheep would be good	Question_answer_pair	0	2	s2-leagueM-game4_10
+spk2: i can give a sheep or wood for a wheat. [SEP] spk1: Not here	Question_answer_pair	0	3	s2-leagueM-game4_10
+spk1: Not here [SEP] spk2: okay	Acknowledgement	3	4	s2-leagueM-game4_10
+spk3: sheep would be good [SEP] spk2: okay	Acknowledgement	2	4	s2-leagueM-game4_10
+spk2: does anyone have clay they can trade? [SEP] spk3: none at all,	Question_answer_pair	0	1	s2-leagueM-game4_11
+spk3: none at all, [SEP] spk3: sorry	Comment	1	2	s2-leagueM-game4_11
+spk2: does anyone have clay they can trade? [SEP] spk1: likewise	Question_answer_pair	0	3	s2-leagueM-game4_11
+spk3: none at all, [SEP] spk1: likewise	Parallel	1	3	s2-leagueM-game4_11
+spk2: same request again... [SEP] spk2: i might be interested in an ore also though	Contrast	4	5	s2-leagueM-game4_11
+spk2: same request again... [SEP] spk3: still not got any clay,	Question_answer_pair	4	6	s2-leagueM-game4_11
+spk3: still not got any clay, [SEP] spk3: sorry	Comment	6	7	s2-leagueM-game4_11
+spk2: same request again... [SEP] spk1: Still have no clay ...	Question_answer_pair	4	8	s2-leagueM-game4_11
+spk3: still not got any clay, [SEP] spk1: Still have no clay ...	Parallel	6	8	s2-leagueM-game4_11
+spk2: does anyone have clay they can trade? [SEP] spk2: same request again...	Continuation	0	4	s2-leagueM-game4_11
+spk2: same request again... [SEP] spk2: okay,	Acknowledgement	4	9	s2-leagueM-game4_11
+spk2: okay, [SEP] spk2: thanks anyway	Comment	9	10	s2-leagueM-game4_11
+spk2: what were you offering again dmm? [SEP] spk2: i have clay now	Explanation	0	1	s2-leagueM-game4_12
+spk2: i have clay now [SEP] spk2: and tons of ore	Continuation	1	2	s2-leagueM-game4_12
+spk2: what were you offering again dmm? [SEP] spk1: i don't need ore now...	Question_answer_pair	0	3	s2-leagueM-game4_12
+spk2: that would be good, [SEP] spk2: 1 clay for 1 wood?	Continuation	5	6	s2-leagueM-game4_12
+spk1: i could offer wood [SEP] spk2: that would be good,	Question_answer_pair	4	5	s2-leagueM-game4_12
+spk1: i could offer wood [SEP] spk2: 1 clay for 1 wood?	Q_Elab	4	6	s2-leagueM-game4_12
+spk2: 1 clay for 1 wood? [SEP] spk1: alright	Question_answer_pair	6	7	s2-leagueM-game4_12
+spk1: i don't need ore now... [SEP] spk1: i could offer wood	Contrast	3	4	s2-leagueM-game4_12
+spk1: inca, are you still interested in wood for ore? [SEP] spk2: yep i'm up for that	Question_answer_pair	0	1	s2-leagueM-game4_13
+spk1: inca, are you still interested in wood for ore? [SEP] spk1: i could do 1 for 1 or 2 for 2?	Q_Elab	0	2	s2-leagueM-game4_13
+spk2: 1 for 1 [SEP] spk2: if that's OK	Conditional	3	4	s2-leagueM-game4_13
+spk1: i could do 1 for 1 or 2 for 2? [SEP] spk2: if that's OK	Question_answer_pair	2	4	s2-leagueM-game4_13
+spk2: if that's OK [SEP] spk1: cool	Acknowledgement	4	5	s2-leagueM-game4_13
+spk2: thought that would happen :P [SEP] spk2: well done	Comment	0	1	s2-leagueM-game4_14
+spk2: well done [SEP] spk1: Bravo!	Parallel	1	2	s2-leagueM-game4_14
+spk3: good game guys [SEP] spk1: Good if brief game!	Acknowledgement	4	5	s2-leagueM-game4_14
+spk3: exciting last game now, [SEP] spk3: three of you on 1 win	Elaboration	6	7	s2-leagueM-game4_14
+spk1: Right, [SEP] spk1: toodle pip	Continuation	8	9	s2-leagueM-game4_14
+spk3: exciting last game now, [SEP] spk1: Right,	Acknowledgement	6	8	s2-leagueM-game4_14
+spk3: cheers for the games guys, [SEP] spk3: I've had fun	Elaboration	11	12	s2-leagueM-game4_14
+spk2: when did we decide on for the final game? [SEP] spk2: did we pick a date?	Q_Elab	13	14	s2-leagueM-game4_14
+spk2: did we pick a date? [SEP] spk3: i don't think you did	Question_answer_pair	14	15	s2-leagueM-game4_14
+spk3: i don't think you did [SEP] spk2: okay,	Acknowledgement	15	16	s2-leagueM-game4_14
+spk2: bye! [SEP] spk3: see you later!	Acknowledgement	18	19	s2-leagueM-game4_14
+spk3: cheers! [SEP] spk3: good game guys	Continuation	3	4	s2-leagueM-game4_14
+spk1: Bravo! [SEP] spk3: cheers!	Acknowledgement	2	3	s2-leagueM-game4_14
+spk3: good game guys [SEP] spk3: exciting last game now,	Continuation	4	6	s2-leagueM-game4_14
+spk1: Right, [SEP] spk3: OK,	Acknowledgement	8	10	s2-leagueM-game4_14
+spk3: exciting last game now, [SEP] spk2: when did we decide on for the final game?	Clarification_question	6	13	s2-leagueM-game4_14
+spk2: we'll leave that to the emails [SEP] spk2: bye!	Continuation	17	18	s2-leagueM-game4_14
+spk3: OK, [SEP] spk3: cheers for the games guys,	Continuation	10	11	s2-leagueM-game4_14
+spk2: okay, [SEP] spk2: we'll leave that to the emails	Continuation	16	17	s2-leagueM-game4_14
+spk2: well done [SEP] spk3: cheers!	Acknowledgement	1	3	s2-leagueM-game4_14
+spk3: 2 Sheep for Clay Ztime [SEP] spk2: sorry	Question_answer_pair	0	1	s2-league4-game2_1
+spk3: 2 Sheep for Clay Ztime [SEP] spk1: not got any	Question_answer_pair	0	2	s2-league4-game2_1
+spk2: anyone want wood... [SEP] spk2: I'm after ore or clay	Elaboration	0	1	s2-league4-game2_2
+spk3: No [SEP] spk3: thanks	Comment	2	3	s2-league4-game2_2
+spk2: anyone want wood... [SEP] spk3: No	Question_answer_pair	0	2	s2-league4-game2_2
+spk2: anyone want wood... [SEP] spk2: how about I give you a wood for a sheep?	Alternation	0	4	s2-league4-game2_2
+spk2: how about I give you a wood for a sheep? [SEP] spk1: no thank you	Question_answer_pair	4	5	s2-league4-game2_2
+spk1: no thank you [SEP] spk2: ok	Acknowledgement	5	6	s2-league4-game2_2
+spk2: how about I give you a wood for a sheep? [SEP] spk3: Nah...	Question_answer_pair	4	7	s2-league4-game2_2
+spk2: anyone want wheat? [SEP] spk3: Yes please	Question_answer_pair	0	1	s2-league4-game2_3
+spk2: anyone want wheat? [SEP] spk2: I'm after wood	Elaboration	0	2	s2-league4-game2_3
+spk2: I'm after wood [SEP] spk2: or sheep...	Alternation	2	3	s2-league4-game2_3
+spk2: which do you want? [SEP] spk3: I can give you ore	Question_answer_pair	4	5	s2-league4-game2_3
+spk3: I can give you ore [SEP] spk2: ore.. ok...	Question_answer_pair	5	6	s2-league4-game2_3
+spk2: ore.. ok... [SEP] spk1: :D	Comment	6	7	s2-league4-game2_3
+spk1: :D [SEP] spk2: yer..	Acknowledgement	7	9	s2-league4-game2_3
+spk2: anyone want to sell sheep? [SEP] spk1: not got any :(	Question_answer_pair	10	12	s2-league4-game2_3
+spk2: I can give wheat.. [SEP] spk3: How about clay?	Q_Elab	11	13	s2-league4-game2_3
+spk2: 2 wheat... [SEP] spk3: I want clay...	Question_answer_pair	14	15	s2-league4-game2_3
+spk3: I want clay... [SEP] spk2: sorry..	Question_answer_pair	15	16	s2-league4-game2_3
+spk2: anyone want to sell sheep? [SEP] spk1: i want sheep too...	Parallel	10	17	s2-league4-game2_3
+spk1: i want sheep too... [SEP] spk1: if anyone gets some	Elaboration	17	19	s2-league4-game2_3
+spk1: for ore.. [SEP] spk1: if anyone gets some	Conditional	18	19	s2-league4-game2_3
+spk1: if anyone gets some [SEP] spk2: ha.. somdech stole from me	Comment	19	20	s2-league4-game2_3
+spk1: :D [SEP] spk1: this is a major trading game	Continuation	7	8	s2-league4-game2_3
+spk2: anyone want wheat? [SEP] spk2: anyone want to sell sheep?	Continuation	0	10	s2-league4-game2_3
+spk2: anyone want to sell sheep? [SEP] spk2: I can give wheat..	Elaboration	10	11	s2-league4-game2_3
+spk3: How about clay? [SEP] spk2: 2 wheat...	Result	13	14	s2-league4-game2_3
+spk2: I can give wheat.. [SEP] spk2: 2 wheat...	Q_Elab	11	14	s2-league4-game2_3
+spk2: I'm after wood [SEP] spk2: which do you want?	Q_Elab	2	4	s2-league4-game2_3
+spk3: I need wood, clay or ore,  I can give Sheep [SEP] spk1: i can trade wood	Question_answer_pair	0	1	s2-league4-game2_4
+spk3: I need wood, clay or ore,  I can give Sheep [SEP] spk2: just spent it all	Question_answer_pair	0	2	s2-league4-game2_4
+spk2: just spent it all [SEP] spk2: sorry	Comment	2	3	s2-league4-game2_4
+spk1: i can trade wood [SEP] spk3: 1 sheep for 1 wood?	Q_Elab	1	4	s2-league4-game2_4
+spk3: 1 sheep for 1 wood? [SEP] spk1: 2 sheep 1 wood	Question_answer_pair	4	5	s2-league4-game2_4
+spk2: sorry empty [SEP] spk2: tough times..	Explanation	6	7	s2-league4-game2_4
+spk1: hopefully i dont roll a 7 [SEP] spk1: and that biotes me in the arse	Continuation	8	9	s2-league4-game2_4
+spk1: and that biotes me in the arse [SEP] spk1: bites*	Correction	9	10	s2-league4-game2_4
+spk2: just spent it all [SEP] spk2: sorry empty	Elaboration	2	6	s2-league4-game2_4
+spk1: 2 sheep 1 wood [SEP] spk1: hopefully i dont roll a 7	Comment	5	8	s2-league4-game2_4
+spk1: drum roll [SEP] spk1: 8..	Continuation	0	1	s2-league4-game2_5
+spk1: 8.. [SEP] spk1: nice	Comment	1	2	s2-league4-game2_5
+spk2: hahahah [SEP] spk2: this is kinda weird...	Elaboration	0	1	s2-league4-game2_6
+spk2: hahahah [SEP] spk3: Again!!!	Comment	0	2	s2-league4-game2_6
+spk2: hahahah [SEP] spk1: phew	Comment	0	3	s2-league4-game2_6
+spk3: Again!!! [SEP] spk2: yer..	Acknowledgement	2	4	s2-league4-game2_6
+spk2: yer.. [SEP] spk2: I know.. comes up a lot in these games..	Elaboration	4	5	s2-league4-game2_6
+spk2: anyone want wheat? [SEP] spk1: nope :(	Question_answer_pair	6	7	s2-league4-game2_6
+spk2: anyone want wheat? [SEP] spk3: Nop	Question_answer_pair	6	8	s2-league4-game2_6
+spk2: hahahah [SEP] spk2: anyone want wheat?	Continuation	0	6	s2-league4-game2_6
+spk3: Wheat -> Ore?? [SEP] spk2: you want ore?	Clarification_question	0	1	s2-league4-game2_7
+spk2: you want ore? [SEP] spk3: Yep/...	Question_answer_pair	1	2	s2-league4-game2_7
+spk3: Wheat -> Ore?? [SEP] spk2: sorry	Question_answer_pair	0	3	s2-league4-game2_7
+spk3: Wheat -> Ore?? [SEP] spk3: Or clay?	Alternation	0	4	s2-league4-game2_7
+spk1: none [SEP] spk1: sorry	Comment	5	6	s2-league4-game2_7
+spk2: sorry [SEP] spk2: too much wheat	Explanation	7	8	s2-league4-game2_7
+spk3: Or clay? [SEP] spk1: none	Question_answer_pair	4	5	s2-league4-game2_7
+spk3: Or clay? [SEP] spk2: sorry	Question_answer_pair	4	7	s2-league4-game2_7
+spk2: anyone want wood? [SEP] spk1: nope	Question_answer_pair	0	1	s2-league4-game2_8
+spk1: anyone have ore to trade? [SEP] spk2: no	Question_answer_pair	0	1	s2-league4-game2_9
+spk2: no [SEP] spk2: sorry	Comment	1	2	s2-league4-game2_9
+spk1: anyone have ore to trade? [SEP] spk3: No.,..	Question_answer_pair	0	3	s2-league4-game2_9
+spk1: anyone have ore to trade? [SEP] spk1: or..a clay foy wheat or wood..	Alternation	0	4	s2-league4-game2_9
+spk1: or..a clay foy wheat or wood.. [SEP] spk2: i can give wheat	Question_answer_pair	4	5	s2-league4-game2_9
+spk1: or..a clay foy wheat or wood.. [SEP] spk3: No clay here iether.	Question_answer_pair	4	6	s2-league4-game2_9
+spk3: No.,.. [SEP] spk3: No clay here iether.	Parallel	3	6	s2-league4-game2_9
+spk2: i can give wheat [SEP] spk2: ahh sorry .. no clay	Correction	5	7	s2-league4-game2_9
+spk1: or..a clay foy wheat or wood.. [SEP] spk2: ahh sorry .. no clay	Question_answer_pair	4	7	s2-league4-game2_9
+spk2: ahh sorry .. no clay [SEP] spk1: ok	Acknowledgement	7	8	s2-league4-game2_9
+spk3: No clay here iether. [SEP] spk1: ok	Acknowledgement	6	8	s2-league4-game2_9
+spk2: anyone want wheat? [SEP] spk3: No	Question_answer_pair	0	1	s2-league4-game2_10
+spk3: No [SEP] spk3: thanks	Comment	1	2	s2-league4-game2_10
+spk2: anyone want wheat? [SEP] spk1: for?	Q_Elab	0	3	s2-league4-game2_10
+spk1: for? [SEP] spk2: sheep or ore or clay	Question_answer_pair	3	4	s2-league4-game2_10
+spk2: sheep or ore or clay [SEP] spk1: hahaha dont have them	Question_answer_pair	4	5	s2-league4-game2_10
+spk1: hahaha dont have them [SEP] spk2: hahahaha	Acknowledgement	5	6	s2-league4-game2_10
+spk2: hahahaha [SEP] spk2: nice	Elaboration	6	7	s2-league4-game2_10
+spk2: nice [SEP] spk2: lol	Comment	7	8	s2-league4-game2_10
+spk2: anyone want wheat? [SEP] spk2: laptop?	Alternation	0	9	s2-league4-game2_10
+spk2: laptop? [SEP] spk3: Sure	Question_answer_pair	9	10	s2-league4-game2_10
+spk2: laptop? [SEP] spk1: built out of wood sure	Question_answer_pair	9	11	s2-league4-game2_10
+spk1: built out of wood sure [SEP] spk3: :)	Comment	11	12	s2-league4-game2_10
+spk3: Wood -> Sheep [SEP] spk3: I need sheep here..	Elaboration	0	1	s2-league4-game2_11
+spk3: Wood -> Sheep [SEP] spk2: sorry	Question_answer_pair	0	2	s2-league4-game2_11
+spk3: Wood -> Sheep [SEP] spk1: sorry,	Question_answer_pair	0	3	s2-league4-game2_11
+spk1: sorry, [SEP] spk1: no sheep on my lands	Explanation	3	4	s2-league4-game2_11
+spk2: sorry [SEP] spk2: sheep-free	Explanation	2	5	s2-league4-game2_11
+spk2: sorry [SEP] spk3: 2 woods for anything but not wheat.	Result	2	6	s2-league4-game2_11
+spk3: 2 woods for anything but not wheat. [SEP] spk2: sorry	Question_answer_pair	6	7	s2-league4-game2_11
+spk2: sorry [SEP] spk2: unless you'd accept a wood in return??	Alternation	7	8	s2-league4-game2_11
+spk3: 2 woods for anything but not wheat. [SEP] spk1: hahaha a ore?	Q_Elab	6	9	s2-league4-game2_11
+spk3: Sure thing.. [SEP] spk2: great... set it up!	Acknowledgement	10	11	s2-league4-game2_11
+spk1: you sound desperate and i can't [SEP] spk3: Just want to get rid of the cards.	Explanation	13	15	s2-league4-game2_11
+spk2: unless you'd accept a wood in return?? [SEP] spk3: Sure thing..	Question_answer_pair	8	10	s2-league4-game2_11
+spk1: hahaha a ore? [SEP] spk3: ore would be good	Question_answer_pair	9	12	s2-league4-game2_11
+spk3: ore would be good [SEP] spk1: you sound desperate and i can't	Comment	12	13	s2-league4-game2_11
+spk1: sorry, [SEP] spk3: 2 woods for anything but not wheat.	Result	3	6	s2-league4-game2_11
+spk1: you sound desperate and i can't [SEP] spk1: so no	Result	13	14	s2-league4-game2_11
+spk3: ore would be good [SEP] spk1: so no	Question_answer_pair	12	14	s2-league4-game2_11
+spk2: :) [SEP] spk1: wish i had the wood port..	Comment	0	1	s2-league4-game2_12
+spk3: Ohhh my.... [SEP] spk2: may as well...	Comment	0	1	s2-league4-game2_13
+spk3: 2 woods for 1 ore? [SEP] spk2: sorry	Question_answer_pair	2	3	s2-league4-game2_13
+spk3: 2 woods for 1 ore? [SEP] spk1: nope	Question_answer_pair	2	4	s2-league4-game2_13
+spk1: nope [SEP] spk1: sorry	Comment	4	5	s2-league4-game2_13
+spk3: Ohhh my.... [SEP] spk3: 2 woods for 1 ore?	Continuation	0	2	s2-league4-game2_13
+spk1: anyone want to give me wheat for sheep? [SEP] spk2: sorry	Question_answer_pair	0	1	s2-league4-game2_14
+spk1: anyone want to give me wheat for sheep? [SEP] spk3: I got sheep	Question_answer_pair	0	2	s2-league4-game2_14
+spk2: sorry [SEP] spk1: oh well	Acknowledgement	1	3	s2-league4-game2_14
+spk3: I got sheep [SEP] spk1: oh well	Acknowledgement	2	3	s2-league4-game2_14
+spk3: Shawnus I got Sheep.. still want to trand? [SEP] spk1: i need wheat	Question_answer_pair	5	7	s2-league4-game2_14
+spk2: *shakes fist* at the robber... [SEP] spk1: haha	Comment	4	6	s2-league4-game2_14
+spk1: i need wheat [SEP] spk3: Ohh I see..	Acknowledgement	7	8	s2-league4-game2_14
+spk1: anyone want to give me wheat for sheep? [SEP] spk3: Shawnus I got Sheep.. still want to trand?	Continuation	0	5	s2-league4-game2_14
+spk2: where are the 7s when you need them? [SEP] spk3: Hee hee	Comment	0	1	s2-league4-game2_15
+spk2: where are the 7s when you need them? [SEP] spk1: hahaha	Comment	0	2	s2-league4-game2_15
+spk2: where are the 7s when you need them? [SEP] spk2: you better build NZ.. look at all those cards you're holding..	Continuation	0	3	s2-league4-game2_15
+spk3: I can give wood or Wheat for 2 Sheeps. [SEP] spk2: sorry...	Question_answer_pair	4	5	s2-league4-game2_15
+spk3: I can give wood or Wheat for 2 Sheeps. [SEP] spk1: i need sheep..not got any.	Question_answer_pair	4	6	s2-league4-game2_15
+spk1: i need sheep..not got any. [SEP] spk1: Ztime has monopolised livestock	Explanation	6	7	s2-league4-game2_15
+spk1: Ztime has monopolised livestock [SEP] spk2: I don't have any sheep...	Correction	7	8	s2-league4-game2_15
+spk2: you better build NZ.. look at all those cards you're holding.. [SEP] spk3: I can give wood or Wheat for 2 Sheeps.	Continuation	3	4	s2-league4-game2_15
+spk3: What do you need Shawnus [SEP] spk1: sheep	Question_answer_pair	0	1	s2-league4-game2_16
+spk1: sheep [SEP] spk3: What can you give?	Q_Elab	1	2	s2-league4-game2_16
+spk3: What can you give? [SEP] spk1: wood or ore	Question_answer_pair	2	3	s2-league4-game2_16
+spk1: wood or ore [SEP] spk1: damn	Comment	3	4	s2-league4-game2_16
+spk2: eh? [SEP] spk2: ooo..	Question_answer_pair	5	6	s2-league4-game2_16
+spk2: ooo.. [SEP] spk2: 7..	Elaboration	6	7	s2-league4-game2_16
+spk1: wood or ore [SEP] spk3: Wood would be nice	Question_answer_pair	3	8	s2-league4-game2_16
+spk3: Wood would be nice [SEP] spk3: Ho... no..	Contrast	8	9	s2-league4-game2_16
+spk3: Ho... no.. [SEP] spk1: misprpressed to end my go!	Explanation	9	10	s2-league4-game2_16
+spk2: eh? [SEP] spk1: misprpressed to end my go!	Question_answer_pair	5	10	s2-league4-game2_16
+spk2: anyone want to give me wood.. [SEP] spk2: I'll give wheat...	Elaboration	11	12	s2-league4-game2_16
+spk3: Give me clay [SEP] spk3: and we might have a deal.	Conditional	13	14	s2-league4-game2_16
+spk2: how about 2 wheat.. for 1 wood? [SEP] spk3: Sorry...	Question_answer_pair	16	17	s2-league4-game2_16
+spk2: how about 1 ore and 1 wheat for wood [SEP] spk3: Still can't do it..	Question_answer_pair	18	20	s2-league4-game2_16
+spk3: Sorry... [SEP] spk2: ok...	Acknowledgement	17	19	s2-league4-game2_16
+spk2: how about 1 ore and 1 wheat for wood [SEP] spk1: you want 1 wood?	Clarification_question	18	21	s2-league4-game2_16
+spk1: you want 1 wood? [SEP] spk2: i did..	Question_answer_pair	21	22	s2-league4-game2_16
+spk2: i did.. [SEP] spk2: but just traded with bank...	Contrast	22	23	s2-league4-game2_16
+spk2: but just traded with bank... [SEP] spk1: damn	Acknowledgement	23	24	s2-league4-game2_16
+spk1: damn [SEP] spk1: haha	Comment	24	25	s2-league4-game2_16
+spk1: damn [SEP] spk2: yer... expensive banks.. just like real life..	Comment	24	26	s2-league4-game2_16
+spk2: yer... expensive banks.. just like real life.. [SEP] spk1: indeed it is	Acknowledgement	26	27	s2-league4-game2_16
+spk1: damn [SEP] spk2: eh?	Clarification_question	4	5	s2-league4-game2_16
+spk1: damn [SEP] spk1: misprpressed to end my go!	Explanation	4	10	s2-league4-game2_16
+spk3: Sorry... [SEP] spk2: how about 1 ore and 1 wheat for wood	Q_Elab	17	18	s2-league4-game2_16
+spk3: Give me clay [SEP] spk2: sorry	Question_answer_pair	13	15	s2-league4-game2_16
+spk2: anyone want to give me wood.. [SEP] spk3: Give me clay	Q_Elab	11	13	s2-league4-game2_16
+spk2: sorry [SEP] spk2: how about 2 wheat.. for 1 wood?	Continuation	15	16	s2-league4-game2_16
+spk2: ooo.. [SEP] spk2: anyone want to give me wood..	Continuation	6	11	s2-league4-game2_16
+spk2: but just traded with bank... [SEP] spk1: damn	Comment	23	24	s2-league4-game2_16
+spk3: Give me clay [SEP] spk2: how about 2 wheat.. for 1 wood?	Q_Elab	13	16	s2-league4-game2_16
+spk1: so..can anyone trade me a sheep for wood? [SEP] spk2: you want sheep ?	Clarification_question	0	1	s2-league4-game2_17
+spk2: you want sheep ? [SEP] spk1: yes	Question_answer_pair	1	2	s2-league4-game2_17
+spk1: yes [SEP] spk2: sorry...	Question_answer_pair	2	3	s2-league4-game2_17
+spk2: sorry... [SEP] spk2: nz is the place to go!	Contrast	3	4	s2-league4-game2_17
+spk1: so..can anyone trade me a sheep for wood? [SEP] spk3: No sheep here mate..	Question_answer_pair	0	5	s2-league4-game2_17
+spk2: nz is the place to go! [SEP] spk3: No sheep here mate..	Correction	4	5	s2-league4-game2_17
+spk3: Where is the other 4??? [SEP] spk2: under robber	Question_answer_pair	7	8	s2-league4-game2_17
+spk2: under robber [SEP] spk2: and top left	Continuation	8	9	s2-league4-game2_17
+spk2: under robber [SEP] spk3: Yes....	Acknowledgement	8	10	s2-league4-game2_17
+spk3: Yes.... [SEP] spk3: I know.....	Continuation	10	11	s2-league4-game2_17
+spk3: Yes.... [SEP] spk2: ahhh	Comment	10	12	s2-league4-game2_17
+spk1: so..can anyone trade me a sheep for wood? [SEP] spk1: still no sheep out there is there?	Narration	0	13	s2-league4-game2_17
+spk1: still no sheep out there is there? [SEP] spk2: nope..	Question_answer_pair	13	14	s2-league4-game2_17
+spk2: nope.. [SEP] spk2: sheep free here	Elaboration	14	15	s2-league4-game2_17
+spk1: still no sheep out there is there? [SEP] spk3: Good one Shawnus...	Comment	13	16	s2-league4-game2_17
+spk3: No sheep here mate.. [SEP] spk2: look outside..	Comment	5	6	s2-league4-game2_17
+spk3: 12 aagain... [SEP] spk1: haha you are far ahead!	Comment	0	2	s2-league4-game2_18
+spk3: Who whats Sheep? [SEP] spk1: nope	Question_answer_pair	3	4	s2-league4-game2_18
+spk3: Who whats Sheep? [SEP] spk2: not really... when you get l road	Question_answer_pair	3	5	s2-league4-game2_18
+spk3: 12 aagain... [SEP] spk2: dude..	Comment	0	1	s2-league4-game2_18
+spk1: nope [SEP] spk1: dont have any of the resources for that	Explanation	4	6	s2-league4-game2_18
+spk3: 12 aagain... [SEP] spk3: Who whats Sheep?	Continuation	0	3	s2-league4-game2_18
+spk2: ha.. luck 7 [SEP] spk3: Not again...	Comment	0	1	s2-league4-game2_19
+spk2: ha.. luck 7 [SEP] spk1: *shakes fist*	Comment	0	2	s2-league4-game2_19
+spk1: *shakes fist* [SEP] spk2: dog eat dog world...	Comment	2	3	s2-league4-game2_19
+spk1: *shakes fist* [SEP] spk1: literally took bread from my mouth there	Elaboration	2	4	s2-league4-game2_19
+spk2: dog eat dog world... [SEP] spk1: literally took bread from my mouth there	Elaboration	3	4	s2-league4-game2_19
+spk2: ha.. luck 7 [SEP] spk2: hmm.. what to do..	Narration	0	5	s2-league4-game2_19
+spk2: 3 wheats??? [SEP] spk2: really???	Continuation	0	1	s2-league4-game2_20
+spk2: 3 wheats??? [SEP] spk1: yer.. man.. too much..	Question_answer_pair	0	2	s2-league4-game2_20
+spk1: yer.. man.. too much.. [SEP] spk2: Pass it this way bro...	Result	2	3	s2-league4-game2_20
+spk2: anyone want wheat? [SEP] spk1: for?	Q_Elab	0	1	s2-league4-game2_21
+spk1: for? [SEP] spk2: sheep?	Question_answer_pair	1	2	s2-league4-game2_21
+spk2: sheep? [SEP] spk3: Sheep?	Clarification_question	2	3	s2-league4-game2_21
+spk2: sheep? [SEP] spk1: k	Acknowledgement	2	4	s2-league4-game2_21
+spk3: Sheep? [SEP] spk2: yer sheep	Question_answer_pair	3	5	s2-league4-game2_21
+spk1: haha [SEP] spk3: 2 Wheat	Q_Elab	6	7	s2-league4-game2_21
+spk3: 2 Wheat [SEP] spk1: 1!	Contrast	7	8	s2-league4-game2_21
+spk2: yer sheep [SEP] spk1: haha	Acknowledgement	5	6	s2-league4-game2_21
+spk1: 1! [SEP] spk1: undercut..	Elaboration	8	9	s2-league4-game2_21
+spk1: 1! [SEP] spk2: :-)	Comment	8	10	s2-league4-game2_21
+spk1: 1! [SEP] spk3: Goos one..	Comment	8	11	s2-league4-game2_21
+spk1: 1! [SEP] spk1: ruthless	Comment	8	12	s2-league4-game2_21
+spk3: Goos one.. [SEP] spk1: ruthless	Elaboration	11	12	s2-league4-game2_21
+spk2: anyone want wheat? [SEP] spk2: anyone else want wheat?	Narration	0	13	s2-league4-game2_21
+spk1: ruthless [SEP] spk3: Yes you r..	Acknowledgement	12	14	s2-league4-game2_21
+spk2: anyone else want wheat? [SEP] spk3: ok me	Question_answer_pair	13	15	s2-league4-game2_21
+spk3: What do you want? [SEP] spk3: Sheep.	Elaboration	16	17	s2-league4-game2_21
+spk2: anyone else want wheat? [SEP] spk3: What do you want?	Q_Elab	13	16	s2-league4-game2_21
+spk3: What do you want? [SEP] spk2: do you have clay or wood?	Q_Elab	16	18	s2-league4-game2_21
+spk3: I do have wood. [SEP] spk3: for 2 Wheats...	Elaboration	19	20	s2-league4-game2_21
+spk2: do you have clay or wood? [SEP] spk3: I do have wood.	Question_answer_pair	18	19	s2-league4-game2_21
+spk3: I do have wood. [SEP] spk2: OK	Acknowledgement	19	22	s2-league4-game2_21
+spk2: OK [SEP] spk3: You are winning...	Contrast	22	23	s2-league4-game2_21
+spk3: whay I'm tranding with you??? [SEP] spk3: Arrr..	Comment	24	25	s2-league4-game2_21
+spk3: Arrr.. [SEP] spk1: haha	Acknowledgement	25	26	s2-league4-game2_21
+spk3: You are winning... [SEP] spk2: na..	Correction	23	27	s2-league4-game2_21
+spk2: na.. [SEP] spk2: I'm stuck here...	Elaboration	27	28	s2-league4-game2_21
+spk2: yer sheep [SEP] spk1: 1!	Q_Elab	5	8	s2-league4-game2_21
+spk3: ok me [SEP] spk3: What do you want?	Q_Elab	15	16	s2-league4-game2_21
+spk2: do you have clay or wood? [SEP] spk2: ADDTIME	Continuation	18	21	s2-league4-game2_21
+spk3: You are winning... [SEP] spk3: whay I'm tranding with you???	Clarification_question	23	24	s2-league4-game2_21
+spk1: i need a wheat [SEP] spk1: can give..wood or sheep	Elaboration	0	1	s2-league4-game2_22
+spk1: i need a wheat [SEP] spk2: sorry	Question_answer_pair	0	2	s2-league4-game2_22
+spk2: sorry [SEP] spk2: i spent it	Explanation	2	3	s2-league4-game2_22
+spk3: Sore [SEP] spk3: ry..	Continuation	4	5	s2-league4-game2_22
+spk1: i need a wheat [SEP] spk3: Sore	Question_answer_pair	0	4	s2-league4-game2_22
+spk1: haha wasnt sury if that was [SEP] spk1: sorry or sure	Elaboration	6	7	s2-league4-game2_22
+spk3: Sore [SEP] spk1: haha wasnt sury if that was	Comment	4	6	s2-league4-game2_22
+spk1: I'm after clay... [SEP] spk1: I'll give an ore	Elaboration	0	1	s2-league4-game2_23
+spk1: I'm after clay... [SEP] spk2: Nop	Question_answer_pair	0	2	s2-league4-game2_23
+spk3: I have give wood for wheat. [SEP] spk2: have none	Question_answer_pair	0	1	s2-league4-game2_24
+spk3: I have give wood for wheat. [SEP] spk1: need wheat	Question_answer_pair	0	2	s2-league4-game2_24
+spk1: need wheat [SEP] spk3: So do I.	Parallel	2	3	s2-league4-game2_24
+spk1: need wheat [SEP] spk2: so do i	Parallel	2	4	s2-league4-game2_24
+spk3: So do I. [SEP] spk2: so do i	Parallel	3	4	s2-league4-game2_24
+spk1: need wheat [SEP] spk1: we should cut down some forests and plant crops..	Result	2	5	s2-league4-game2_24
+spk3: So do I. [SEP] spk1: we should cut down some forests and plant crops..	Result	3	5	s2-league4-game2_24
+spk2: so do i [SEP] spk1: we should cut down some forests and plant crops..	Result	4	5	s2-league4-game2_24
+spk1: we should cut down some forests and plant crops.. [SEP] spk2: yer...	Acknowledgement	5	6	s2-league4-game2_24
+spk2: the bank always wins... [SEP] spk3: Yep... Bank always win.	Acknowledgement	7	8	s2-league4-game2_24
+spk3: So do I. [SEP] spk2: the bank always wins...	Comment	3	7	s2-league4-game2_24
+spk2: so do i [SEP] spk2: the bank always wins...	Comment	4	7	s2-league4-game2_24
+spk1: need wheat [SEP] spk2: the bank always wins...	Comment	2	7	s2-league4-game2_24
+spk3: Yep... Bank always win. [SEP] spk2: ha well done..	Comment	8	9	s2-league4-game2_24
+spk2: I enjoyed it for a while... [SEP] spk1: haha	Comment	10	11	s2-league4-game2_24
+spk2: just seem to be stuck here... [SEP] spk3: That's good fo us...	Comment	12	13	s2-league4-game2_24
+spk2: just seem to be stuck here... [SEP] spk2: anyone want wood?	Continuation	12	14	s2-league4-game2_24
+spk2: just seem to be stuck here... [SEP] spk1: it's a long close game	Comment	12	15	s2-league4-game2_24
+spk2: anyone want wood? [SEP] spk1: nope	Question_answer_pair	14	16	s2-league4-game2_24
+spk2: anyone want wood? [SEP] spk3: nop	Question_answer_pair	14	17	s2-league4-game2_24
+spk1: it's a long close game [SEP] spk2: yer.... it's close..	Acknowledgement	15	18	s2-league4-game2_24
+spk1: nope [SEP] spk2: ok..	Acknowledgement	16	19	s2-league4-game2_24
+spk3: nop [SEP] spk2: ok..	Acknowledgement	17	19	s2-league4-game2_24
+spk2: ok.. [SEP] spk3: Hey ehey...	Comment	19	20	s2-league4-game2_24
+spk3: Yep... Bank always win. [SEP] spk2: I enjoyed it for a while...	Comment	8	10	s2-league4-game2_24
+spk3: Hey ehey... [SEP] spk2: I'm helping you out..	Correction	20	21	s2-league4-game2_24
+spk2: I'm helping you out.. [SEP] spk2: trying to get you under 7 cards...	Explanation	21	22	s2-league4-game2_24
+spk2: I'm helping you out.. [SEP] spk1: hahaha	Comment	21	23	s2-league4-game2_24
+spk3: I can give wood for Wheat. [SEP] spk3: or clay	Alternation	24	25	s2-league4-game2_24
+spk2: unless it's wood.. [SEP] spk2: I can't help	Conditional	27	28	s2-league4-game2_24
+spk3: I can give wood for Wheat. [SEP] spk2: I can't help	Q_Elab	24	28	s2-league4-game2_24
+spk3: I can give wood for Wheat. [SEP] spk3: Clay would be better.	Contrast	24	26	s2-league4-game2_24
+spk2: I enjoyed it for a while... [SEP] spk2: just seem to be stuck here...	Contrast	10	12	s2-league4-game2_24
+spk2: ha well done.. [SEP] spk2: I enjoyed it for a while...	Contrast	9	10	s2-league4-game2_24
+spk2: I can't help [SEP] spk3: Nooo.	Question_answer_pair	28	29	s2-league4-game2_24
+spk2: I'm helping you out.. [SEP] spk3: I can give wood for Wheat.	Continuation	21	24	s2-league4-game2_24
+spk3: Way to go.. [SEP] spk2: industrial round	Comment	0	1	s2-league4-game2_25
+spk2: industrial round [SEP] spk1: must keep roads!	Comment	1	2	s2-league4-game2_25
+spk3: Way to go.. [SEP] spk1: must keep roads!	Comment	0	2	s2-league4-game2_25
+spk3: Awwwhhhh.. [SEP] spk2: ahhhh... noooo. my woodpile isn't so big now...	Continuation	0	1	s2-league4-game2_26
+spk2: ahhhh... noooo. my woodpile isn't so big now... [SEP] spk1: hahaha	Comment	1	2	s2-league4-game2_26
+spk1: hahaha [SEP] spk1: thought you were going to open an ikea	Elaboration	2	4	s2-league4-game2_26
+spk2: ahhhh... noooo. my woodpile isn't so big now... [SEP] spk3: How about the laptop	Clarification_question	1	3	s2-league4-game2_26
+spk2: random 7 [SEP] spk1: damn	Comment	0	1	s2-league4-game2_27
+spk2: random 7 [SEP] spk2: doesn't happen like this in the real game does it...?	Contrast	0	2	s2-league4-game2_27
+spk1: two resources stolen! [SEP] spk2: sorry...	Comment	4	5	s2-league4-game2_27
+spk1: damn [SEP] spk1: two resources stolen!	Elaboration	1	4	s2-league4-game2_27
+spk2: and the 7s have started.... [SEP] spk1: glad I got rid of some resources then...	Result	0	1	s2-league4-game2_28
+spk2: anyone want wood... [SEP] spk2: I'm after clay	Question_answer_pair	2	3	s2-league4-game2_28
+spk2: I'm after clay [SEP] spk1: got no clay	Question_answer_pair	3	4	s2-league4-game2_28
+spk2: I'm after clay [SEP] spk3: No clay from me my friend.	Question_answer_pair	3	5	s2-league4-game2_28
+spk1: got no clay [SEP] spk2: OK.. ta	Acknowledgement	4	6	s2-league4-game2_28
+spk3: No clay from me my friend. [SEP] spk2: OK.. ta	Acknowledgement	5	6	s2-league4-game2_28
+spk2: and the 7s have started.... [SEP] spk2: anyone want wood...	Continuation	0	2	s2-league4-game2_28
+spk3: I can give wood for ore or wheat. [SEP] spk2: sorry...	Question_answer_pair	0	1	s2-league4-game2_29
+spk2: sorry... [SEP] spk2: trying to ship wood out..	Explanation	1	2	s2-league4-game2_29
+spk3: I can give wood for ore or wheat. [SEP] spk1: 1 for 1, ok	Question_answer_pair	0	3	s2-league4-game2_29
+spk1: 1 for 1, ok [SEP] spk3: yep	Acknowledgement	3	4	s2-league4-game2_29
+spk3: yep [SEP] spk1: ok	Acknowledgement	4	5	s2-league4-game2_29
+spk1: 1 for 1, ok [SEP] spk3: What can you give?	Q_Elab	3	6	s2-league4-game2_29
+spk3: What can you give? [SEP] spk1: wheat	Question_answer_pair	6	7	s2-league4-game2_29
+spk3: yep [SEP] spk3: What can you give?	Continuation	4	6	s2-league4-game2_29
+spk1: want to trade a wood for sheep? [SEP] spk3: no	Question_answer_pair	0	1	s2-league4-game2_30
+spk3: no [SEP] spk3: thanks.	Comment	1	2	s2-league4-game2_30
+spk1: want to trade a wood for sheep? [SEP] spk2: sorry.. still no sheep here	Question_answer_pair	0	3	s2-league4-game2_30
+spk2: sorry.. still no sheep here [SEP] spk1: haha you are same as me...	Comment	3	4	s2-league4-game2_30
+spk1: haha you are same as me... [SEP] spk3: Nz got sheep.	Contrast	4	5	s2-league4-game2_30
+spk2: sorry.. still no sheep here [SEP] spk3: Nz got sheep.	Contrast	3	5	s2-league4-game2_30
+spk3: Nz got sheep. [SEP] spk1: want some more wood?	Result	5	6	s2-league4-game2_30
+spk1: want some more wood? [SEP] spk3: Need 2 wood for that though..	Question_answer_pair	6	7	s2-league4-game2_30
+spk3: Need 2 wood for that though.. [SEP] spk2: hard trading.. nice...	Comment	7	8	s2-league4-game2_30
+spk2: hard trading.. nice... [SEP] spk1: hahaha	Comment	8	9	s2-league4-game2_30
+spk3: Need 2 wood for that though.. [SEP] spk1: ok	Acknowledgement	7	10	s2-league4-game2_30
+spk2: hard trading.. nice... [SEP] spk2: tough deals in the modern world..	Elaboration	8	11	s2-league4-game2_30
+spk2: hard trading.. nice... [SEP] spk1:  yeah..	Acknowledgement	8	12	s2-league4-game2_30
+spk1: how much wood for a new laptop? [SEP] spk2: :-)	Comment	13	14	s2-league4-game2_30
+spk1: want to trade a wood for sheep? [SEP] spk1: want some more wood?	Q_Elab	0	6	s2-league4-game2_30
+spk1:  yeah.. [SEP] spk1: how much wood for a new laptop?	Comment	12	13	s2-league4-game2_30
+spk2: ahh 7 again.. sorry [SEP] spk1: really	Clarification_question	0	1	s2-league4-game2_31
+spk1: really [SEP] spk1: sorry?	Elaboration	1	2	s2-league4-game2_31
+spk1: really [SEP] spk2: yer.... feel bad for you guys	Question_answer_pair	1	3	s2-league4-game2_31
+spk2: yer.... feel bad for you guys [SEP] spk2: look NZ has to dump all his card....	Explanation	3	4	s2-league4-game2_31
+spk2: look NZ has to dump all his card.... [SEP] spk3: Nooo...	Comment	4	5	s2-league4-game2_31
+spk2: anyone have clay? [SEP] spk2: I can give wood	Elaboration	6	7	s2-league4-game2_31
+spk2: anyone have clay? [SEP] spk3: No....	Question_answer_pair	6	8	s2-league4-game2_31
+spk2: anyone have clay? [SEP] spk1: nope	Question_answer_pair	6	9	s2-league4-game2_31
+spk2: I give wheat [SEP] spk2: ok	Continuation	11	12	s2-league4-game2_31
+spk2: wheat [SEP] spk3: Nop	Question_answer_pair	10	13	s2-league4-game2_31
+spk2: wheat [SEP] spk2: I give wheat	Elaboration	10	11	s2-league4-game2_31
+spk3: No.... [SEP] spk2: wheat	Result	8	10	s2-league4-game2_31
+spk2: ahh 7 again.. sorry [SEP] spk2: anyone have clay?	Continuation	0	6	s2-league4-game2_31
+spk1: nope [SEP] spk2: wheat	Result	9	10	s2-league4-game2_31
+spk2: anyone have clay? [SEP] spk2: wheat	Q_Elab	6	10	s2-league4-game2_31
+spk2: anyone want to give me clay... [SEP] spk3: Got none..	Question_answer_pair	0	2	s2-league4-game2_32
+spk1: for? [SEP] spk2: wood	Question_answer_pair	1	5	s2-league4-game2_32
+spk2: wood [SEP] spk1: not got any wood	Question_answer_pair	5	8	s2-league4-game2_32
+spk1: not got any wood [SEP] spk2: eh?	Clarification_question	8	9	s2-league4-game2_32
+spk2: wood [SEP] spk2: ore	Alternation	5	7	s2-league4-game2_32
+spk1: oh wait [SEP] spk1: haha	Comment	3	6	s2-league4-game2_32
+spk1: oh wait [SEP] spk1: no	Elaboration	3	4	s2-league4-game2_32
+spk1: for? [SEP] spk1: oh wait	Correction	1	3	s2-league4-game2_32
+spk2: anyone want to give me clay... [SEP] spk1: for?	Q_Elab	0	1	s2-league4-game2_32
+spk2: anyone want to give me clay... [SEP] spk1: oh wait	Question_answer_pair	0	3	s2-league4-game2_32
+spk1: not got any wood [SEP] spk2: ok...	Acknowledgement	8	10	s2-league4-game2_32
+spk3: giving out wood for wheat... [SEP] spk2: sorry don't need wood	Question_answer_pair	2	3	s2-league4-game2_33
+spk3: giving out wood for wheat... [SEP] spk2: you have a big hand of cards there...	Comment	2	4	s2-league4-game2_33
+spk2: you have a big hand of cards there... [SEP] spk1: haha he does!	Acknowledgement	4	5	s2-league4-game2_33
+spk2: you have a big hand of cards there... [SEP] spk3: Yeh..but no wheat..	Contrast	4	6	s2-league4-game2_33
+spk3: Yeh..but no wheat.. [SEP] spk3: Hmmm	Comment	6	7	s2-league4-game2_33
+spk2: do you have clay? [SEP] spk2: for wheat?	Elaboration	8	9	s2-league4-game2_33
+spk2: do you have clay? [SEP] spk3: No...	Question_answer_pair	8	10	s2-league4-game2_33
+spk3: No... [SEP] spk2: :) worth a try	Comment	10	11	s2-league4-game2_33
+spk2: do you have clay? [SEP] spk3: Ore for wheat	Q_Elab	8	12	s2-league4-game2_33
+spk3: No... [SEP] spk3: Ore for wheat	Contrast	10	12	s2-league4-game2_33
+spk3: Ore for wheat [SEP] spk2: no	Question_answer_pair	12	13	s2-league4-game2_33
+spk2: no [SEP] spk2: thanks	Comment	13	14	s2-league4-game2_33
+spk3: Ore for wheat [SEP] spk1: nope	Question_answer_pair	12	15	s2-league4-game2_33
+spk2: no [SEP] spk2: the bank again?	Clarification_question	13	16	s2-league4-game2_33
+spk3: giving out wood for wheat... [SEP] spk3: Yeh..but no wheat..	Explanation	2	6	s2-league4-game2_33
+spk3: giving out wood for wheat... [SEP] spk2: do you have clay?	Q_Elab	2	8	s2-league4-game2_33
+spk1: nope [SEP] spk2: the bank again?	Clarification_question	15	16	s2-league4-game2_33
+spk1: take a wheat for one [SEP] spk3: giving out wood for wheat...	Continuation	0	2	s2-league4-game2_33
+spk1: take a wheat for one [SEP] spk1: when it's my turn	Elaboration	0	1	s2-league4-game2_33
+spk1: need wheat [SEP] spk1: want..clay?	Elaboration	0	1	s2-league4-game2_34
+spk1: need wheat [SEP] spk2: you odo?	Clarification_question	0	2	s2-league4-game2_34
+spk2: yer.. [SEP] spk2: I need clay..	Elaboration	3	4	s2-league4-game2_34
+spk2: I need clay.. [SEP] spk2: can give wheat	Continuation	4	5	s2-league4-game2_34
+spk1: need wheat [SEP] spk2: yer..	Question_answer_pair	0	3	s2-league4-game2_34
+spk2: yer.. [SEP] spk1: k	Acknowledgement	3	6	s2-league4-game2_34
+spk2: yer.. [SEP] spk1: this might be where i lose my road card a?	Comment	3	7	s2-league4-game2_34
+spk2: er.. [SEP] spk2: I think the trade is wrong?	Continuation	8	9	s2-league4-game2_34
+spk2: I think the trade is wrong? [SEP] spk2: did you want wheat?	Elaboration	9	10	s2-league4-game2_34
+spk2: er.. [SEP] spk1: yes	Question_answer_pair	8	11	s2-league4-game2_34
+spk1: yes [SEP] spk1: for clay	Elaboration	11	12	s2-league4-game2_34
+spk1: yes [SEP] spk2: it said you wanted clay...	Contrast	11	13	s2-league4-game2_34
+spk3: We all want wheat man [SEP] spk3: and clay...	Continuation	14	15	s2-league4-game2_34
+spk1: yes [SEP] spk3: We all want wheat man	Comment	11	14	s2-league4-game2_34
+spk3: We all want wheat man [SEP] spk1: haha	Comment	14	18	s2-league4-game2_34
+spk1: yes [SEP] spk2: ok	Acknowledgement	11	16	s2-league4-game2_34
+spk2: ok [SEP] spk2: thanks..	Comment	16	17	s2-league4-game2_34
+spk2: thanks.. [SEP] spk1: thanks	Acknowledgement	17	19	s2-league4-game2_34
+spk2: er.. [SEP] spk3: That happens in the real game as well.	Comment	8	20	s2-league4-game2_34
+spk1: k [SEP] spk2: er..	Clarification_question	6	8	s2-league4-game2_34
+spk3: :) [SEP] spk2: :-)	Acknowledgement	0	1	s2-league4-game2_35
+spk2: :-) [SEP] spk2: thanks!!!!	Continuation	1	2	s2-league4-game2_35
+spk1: damn! [SEP] spk1: nice one	Elaboration	3	5	s2-league4-game2_35
+spk2: :-) [SEP] spk2: that was a close game....	Comment	1	6	s2-league4-game2_35
+spk2: that was a close game.... [SEP] spk1: yeah	Acknowledgement	6	7	s2-league4-game2_35
+spk1: yeah [SEP] spk1: hats off to you	Continuation	7	8	s2-league4-game2_35
+spk2: that was a close game.... [SEP] spk3: You should have won it long time ago..	Comment	6	9	s2-league4-game2_35
+spk1: hats off to you [SEP] spk1: and next time..all 4 of us?	Clarification_question	8	10	s2-league4-game2_35
+spk3: You should have won it long time ago.. [SEP] spk2: I was so stuck	Contrast	9	11	s2-league4-game2_35
+spk1: and next time..all 4 of us? [SEP] spk2: yer.. either all 4..	Acknowledgement	10	12	s2-league4-game2_35
+spk2: or I drop out and you 2 play with Wolfie [SEP] spk2: (woodnsheep / claire)	Elaboration	13	14	s2-league4-game2_35
+spk3: SheepNWood can't do weekend though.. [SEP] spk1: urgh	Comment	15	16	s2-league4-game2_35
+spk2: yer.. either all 4.. [SEP] spk3: SheepNWood can't do weekend though..	Contrast	12	15	s2-league4-game2_35
+spk3: SheepNWood can't do weekend though.. [SEP] spk2: she'll have to fit in 1 or 2...	Contrast	15	17	s2-league4-game2_35
+spk1: urgh [SEP] spk1: we will sort something out maybe	Contrast	16	18	s2-league4-game2_35
+spk1: we will sort something out maybe [SEP] spk2: she made one the other week with somdech and me...	Elaboration	18	19	s2-league4-game2_35
+spk2: ok guys [SEP] spk2: thanks for the game..	Comment	20	21	s2-league4-game2_35
+spk2: thanks for the game.. [SEP] spk2: I gotta dash off now...	Continuation	21	22	s2-league4-game2_35
+spk1: well i want breakfast! [SEP] spk1: so...see you guys on email :)	Result	23	24	s2-league4-game2_35
+spk2: have a great weekend... [SEP] spk1: thanks for a really good game	Continuation	25	26	s2-league4-game2_35
+spk2: have a great weekend... [SEP] spk1: you both too	Comment	25	29	s2-league4-game2_35
+spk2: have a great weekend... [SEP] spk2: cheers	Continuation	25	27	s2-league4-game2_35
+spk3: SheepNWood can't do weekend though.. [SEP] spk3: I can stay late 1 night to do it.	Contrast	15	28	s2-league4-game2_35
+spk3: I can stay late 1 night to do it. [SEP] spk3: We'll e-mail..	Continuation	28	30	s2-league4-game2_35
+spk2: that was a close game.... [SEP] spk1: hats off to you	Comment	6	8	s2-league4-game2_35
+spk1: and next time..all 4 of us? [SEP] spk2: ok guys	Continuation	10	20	s2-league4-game2_35
+spk2: ok guys [SEP] spk1: well i want breakfast!	Continuation	20	23	s2-league4-game2_35
+spk1: well i want breakfast! [SEP] spk2: have a great weekend...	Continuation	23	25	s2-league4-game2_35
+spk2: cheers [SEP] spk2: until next time...	Continuation	27	31	s2-league4-game2_35
+spk2: :-) [SEP] spk1: damn!	Comment	1	3	s2-league4-game2_35
+spk2: :-) [SEP] spk3: Nice one bro...	Acknowledgement	1	4	s2-league4-game2_35
+spk2: until next time... [SEP] spk3: ok guys... See u	Acknowledgement	31	32	s2-league4-game2_35
+spk2: yer.. either all 4.. [SEP] spk2: or I drop out and you 2 play with Wolfie	Alternation	12	13	s2-league4-game2_35
+spk3: You should have won it long time ago.. [SEP] spk2: ok guys	Continuation	9	20	s2-league4-game2_35
+spk1: you both too [SEP] spk3: ok guys... See u	Acknowledgement	29	32	s2-league4-game2_35
+spk1: hey [SEP] spk1: good morning	Elaboration	1	2	s2-league4-game2_36
+spk2: which part of the country are you in? [SEP] spk3: NZ bro...	Question_answer_pair	3	4	s2-league4-game2_36
+spk2: which part of the country are you in? [SEP] spk1: London	Question_answer_pair	3	5	s2-league4-game2_36
+spk2: Edinburgh [SEP] spk1: lovely place	Comment	6	7	s2-league4-game2_36
+spk3: NZ bro... [SEP] spk2: Welcome NZ	Comment	4	8	s2-league4-game2_36
+spk3: NZ bro... [SEP] spk1: hello NZ	Comment	4	9	s2-league4-game2_36
+spk1: hello NZ [SEP] spk3: Yrahhh  Hi all	Comment	9	10	s2-league4-game2_36
+spk2: Welcome NZ [SEP] spk3: Yrahhh  Hi all	Comment	8	10	s2-league4-game2_36
+spk2: right.. [SEP] spk2: shall we...	Continuation	11	12	s2-league4-game2_36
+spk1: lovely place [SEP] spk1: I did the marathon there this year (scotland, not NZ)	Continuation	7	13	s2-league4-game2_36
+spk1: I did the marathon there this year (scotland, not NZ) [SEP] spk2: wooo... impressive	Comment	13	14	s2-league4-game2_36
+spk1: I did the marathon there this year (scotland, not NZ) [SEP] spk1: penis shaped medal for all...	Continuation	13	15	s2-league4-game2_36
+spk1: penis shaped medal for all... [SEP] spk3: Wow... that;s cool.	Comment	15	16	s2-league4-game2_36
+spk1: penis shaped medal for all... [SEP] spk2: err....	Comment	15	17	s2-league4-game2_36
+spk2: err.... [SEP] spk1: indeed,..what i said when they gave it to me	Comment	17	18	s2-league4-game2_36
+spk1: penis shaped medal for all... [SEP] spk2: impressive medal?	Q_Elab	15	19	s2-league4-game2_36
+spk2: impressive medal? [SEP] spk1: below average proportion but was metal...	Question_answer_pair	19	20	s2-league4-game2_36
+spk1: below average proportion but was metal... [SEP] spk2: I bet you all looked like a bunch of dicks...	Comment	20	22	s2-league4-game2_36
+spk2: I bet you all looked like a bunch of dicks... [SEP] spk1: hahaha	Comment	22	23	s2-league4-game2_36
+spk3: Anyway......... [SEP] spk2: yer.. shall we..	Continuation	21	24	s2-league4-game2_36
+spk2: yer.. shall we.. [SEP] spk1: go for it	Question_answer_pair	24	25	s2-league4-game2_36
+spk2: yer.. shall we.. [SEP] spk3: Yes..	Question_answer_pair	24	26	s2-league4-game2_36
+spk1: go for it [SEP] spk3: Yes..	Question_answer_pair	25	26	s2-league4-game2_36
+spk3: Yes.. [SEP] spk2: go nz	Result	26	27	s2-league4-game2_36
+spk2: go nz [SEP] spk2: damn	Comment	27	28	s2-league4-game2_36
+spk2: damn [SEP] spk1: misplaced/	Clarification_question	28	29	s2-league4-game2_36
+spk2: damn [SEP] spk3: Need to undo are you?	Clarification_question	28	31	s2-league4-game2_36
+spk3: Need to undo are you? [SEP] spk2: no it's fine..	Question_answer_pair	31	34	s2-league4-game2_36
+spk2: no.. [SEP] spk2: you took the spot I was looking at...	Explanation	32	33	s2-league4-game2_36
+spk1: misplaced/ [SEP] spk2: no..	Question_answer_pair	29	32	s2-league4-game2_36
+spk2: no.. [SEP] spk1: hahaha	Comment	32	35	s2-league4-game2_36
+spk2: no.. [SEP] spk3: Got to be mean here.	Comment	32	36	s2-league4-game2_36
+spk2: right.. [SEP] spk3: Anyway.........	Continuation	11	21	s2-league4-game2_36
+spk1: misplaced/ [SEP] spk1: ?	Correction	29	30	s2-league4-game2_36
+spk1: hey [SEP] spk2: which part of the country are you in?	Continuation	1	3	s2-league4-game2_36
+spk2: which part of the country are you in? [SEP] spk2: right..	Continuation	3	11	s2-league4-game2_36
+spk2: which part of the country are you in? [SEP] spk2: Edinburgh	Question_answer_pair	3	6	s2-league4-game2_36
+spk2: morning... [SEP] spk1: hey	Acknowledgement	0	1	s2-league4-game2_36
+spk2: NZ is going for the sheep [SEP] spk1: haha	Comment	0	1	s2-league4-game2_37
+spk2: ahhh 7 [SEP] spk3: Already	Comment	0	1	s2-league4-game2_38
+spk3: Already [SEP] spk2: yer...	Acknowledgement	1	2	s2-league4-game2_38
+spk3: Already [SEP] spk1: doesn't take long	Comment	1	3	s2-league4-game2_38
+spk1: doesn't take long [SEP] spk1: hopefully not as many as last game	Continuation	3	4	s2-league4-game2_38
+spk1: hopefully not as many as last game [SEP] spk2: yer last time it came up a lot at the start...	Elaboration	4	5	s2-league4-game2_38
+spk3: Ok I can give Sheep for Clay [SEP] spk2: sorry	Question_answer_pair	0	1	s2-league4-game2_39
+spk3: Ok I can give Sheep for Clay [SEP] spk1: none	Question_answer_pair	0	2	s2-league4-game2_39
+spk1: none [SEP] spk1: sorry	Comment	2	3	s2-league4-game2_39
+spk2: yep [SEP] spk2: I have wood	Elaboration	1	2	s2-league4-game2_40
+spk2: I have wood [SEP] spk2: 1 for 1	Elaboration	2	3	s2-league4-game2_40
+spk1: have a clay now, anyone have a wood? [SEP] spk2: yep	Question_answer_pair	0	1	s2-league4-game2_40
+spk1: have a clay now, anyone have a wood? [SEP] spk3: Yes please	Question_answer_pair	0	4	s2-league4-game2_40
+spk3: Yes please [SEP] spk3: Too late I guess	Contrast	4	5	s2-league4-game2_40
+spk3: Too late I guess [SEP] spk2: soz bro	Comment	5	6	s2-league4-game2_40
+spk3: Too late I guess [SEP] spk1: sorry,	Comment	5	7	s2-league4-game2_40
+spk1: sorry, [SEP] spk1: quickest off the block	Contrast	7	8	s2-league4-game2_40
+spk2: soz bro [SEP] spk2: need that new laptop	Comment	6	9	s2-league4-game2_40
+spk2: need that new laptop [SEP] spk3: What laptop?	Clarification_question	9	10	s2-league4-game2_40
+spk2: earlier.. [SEP] spk2: how much wood for a new laptop...	Elaboration	11	12	s2-league4-game2_40
+spk3: What laptop? [SEP] spk2: earlier..	Question_answer_pair	10	11	s2-league4-game2_40
+spk2: aahhhhhh 7777777] [SEP] spk2: sorry..	Comment	0	1	s2-league4-game2_41
+spk2: aahhhhhh 7777777] [SEP] spk3: Ehhhh	Comment	0	2	s2-league4-game2_41
+spk3: Ehhhh [SEP] spk3: Hope you like it Bahhhh\	Elaboration	2	3	s2-league4-game2_41
+spk2: it's random [SEP] spk2: but always lands on me..?	Contrast	4	5	s2-league4-game2_41
+spk2: aahhhhhh 7777777] [SEP] spk2: it's random	Elaboration	0	4	s2-league4-game2_41
+spk2: but always lands on me..? [SEP] spk2: weird...	Comment	5	7	s2-league4-game2_41
+spk3: Wood for Ore... anyone? [SEP] spk2: sorry	Question_answer_pair	6	8	s2-league4-game2_41
+spk3: Wood for Ore... anyone? [SEP] spk1: nope,	Question_answer_pair	6	9	s2-league4-game2_41
+spk1: nope, [SEP] spk1: sorry	Comment	9	10	s2-league4-game2_41
+spk3: Ehhhh [SEP] spk3: Wood for Ore... anyone?	Continuation	2	6	s2-league4-game2_41
+spk1: lot of luck in this game... [SEP] spk1: not like peurto rico	Contrast	1	2	s2-league4-game2_42
+spk2: Doing well there Ztime.... [SEP] spk1: lot of luck in this game...	Explanation	0	1	s2-league4-game2_42
+spk2: 7!!!! [SEP] spk3: Yeah right...	Acknowledgement	0	1	s2-league4-game2_43
+spk2: 7!!!! [SEP] spk2: what... is this a fix?	Result	0	2	s2-league4-game2_43
+spk2: 7!!!! [SEP] spk1: hahaha	Comment	0	3	s2-league4-game2_43
+spk2: ok anyone want wheat? [SEP] spk1: nope	Question_answer_pair	4	5	s2-league4-game2_43
+spk1: nope [SEP] spk1: just someone to roll 9's..	Elaboration	5	6	s2-league4-game2_43
+spk2: ok anyone want wheat? [SEP] spk3: Yes	Question_answer_pair	4	7	s2-league4-game2_43
+spk3: Yes [SEP] spk3: I can give you wood.	Elaboration	7	8	s2-league4-game2_43
+spk3: Yes [SEP] spk2: was that yes to a trade somdech?	Clarification_question	7	9	s2-league4-game2_43
+spk3: Yes [SEP] spk2: OK.. cool.. for 1 wheat?	Q_Elab	7	10	s2-league4-game2_43
+spk2: OK.. cool.. for 1 wheat? [SEP] spk3: and an ore.. :)	Question_answer_pair	10	11	s2-league4-game2_43
+spk3: and an ore.. :) [SEP] spk2: err.. don't have ore..	Correction	11	12	s2-league4-game2_43
+spk2: err.. don't have ore.. [SEP] spk2: thanks..	Contrast	12	13	s2-league4-game2_43
+spk2: 7!!!! [SEP] spk2: ok anyone want wheat?	Narration	0	4	s2-league4-game2_43
+spk3: I need either ore or clay.. [SEP] spk3: I can give wood or sheep.	Elaboration	0	1	s2-league4-game2_44
+spk3: I need either ore or clay.. [SEP] spk1: no spare	Question_answer_pair	0	2	s2-league4-game2_44
+spk1: no spare [SEP] spk1: sorry	Comment	2	3	s2-league4-game2_44
+spk3: I need either ore or clay.. [SEP] spk2: I'll do 1 ore for 1 wood and 1 sheep	Question_answer_pair	0	4	s2-league4-game2_44
+spk2: I'll do 1 ore for 1 wood and 1 sheep [SEP] spk3: Hmmm nah...	Question_answer_pair	4	5	s2-league4-game2_44
+spk3: Do you want sheep?? [SEP] spk2: Ok..	Question_answer_pair	1	2	s2-league4-game2_45
+spk2: Ok.. [SEP] spk2: for 1 wheat	Elaboration	2	3	s2-league4-game2_45
+spk2: Ok.. [SEP] spk3: 1 Wood maybe	Q_Elab	2	4	s2-league4-game2_45
+spk3: 1 Wood maybe [SEP] spk2: empty on wood	Question_answer_pair	4	5	s2-league4-game2_45
+spk3: 1 Wood maybe [SEP] spk1: i could make that trade next turn...	Comment	4	6	s2-league4-game2_45
+spk2: empty on wood [SEP] spk3: what about ore	Result	5	7	s2-league4-game2_45
+spk3: what about ore [SEP] spk2: for?	Q_Elab	7	8	s2-league4-game2_45
+spk2: for? [SEP] spk3: Nevermind	Question_answer_pair	8	9	s2-league4-game2_45
+spk3: Nevermind [SEP] spk2: ok	Acknowledgement	9	10	s2-league4-game2_45
+spk2: empty on wood [SEP] spk3: what about ore	Q_Elab	5	7	s2-league4-game2_45
+spk2: yer.. not a 7 this time.. [SEP] spk3: Do you want sheep??	Continuation	0	1	s2-league4-game2_45
